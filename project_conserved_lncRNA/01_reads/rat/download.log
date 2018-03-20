@@ -1,0 +1,28 @@
+nohup: ignoring input
+---------- Runing parameters ----------
+Working directory:	01_reads/rat
+Input file:	00_info/SEQC_rat_brain.txt
+Output file:	01_reads/rat/GSM2SRR.txt
+---------------------------------------
+
+
+Processing GSM1328501 [1/32] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169959 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T06:25:40 prefetch.2.8.2: 1) Downloading 'SRR1169959'...
+2018-03-20T06:25:40 prefetch.2.8.2:  Downloading via https...
+2018-03-20T06:39:17 prefetch.2.8.2: 1) 'SRR1169959' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Table 'SRR1169959.sra' metadata: md5 ok
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T06:39:17 vdb-validate.2.8.2 info: Table 'SRR1169959.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
