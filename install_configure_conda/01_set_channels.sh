@@ -2,6 +2,7 @@
 
 # Reference:
 # https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
+# https://bioconda.github.io/
 # Set up channels
 
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
