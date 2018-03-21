@@ -14,3 +14,3701 @@ Processing GSM1156877 [1/112] ...
 
 2018-03-20T06:49:10 prefetch.2.8.2: 1) Downloading 'SRR896743'...
 2018-03-20T06:49:10 prefetch.2.8.2:  Downloading via https...
+2018-03-20T06:59:40 prefetch.2.8.2: 1) 'SRR896743' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T06:59:40 vdb-validate.2.8.2 info: Table 'SRR896743.sra' metadata: md5 ok
+2018-03-20T06:59:40 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T06:59:41 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T06:59:41 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T06:59:41 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T06:59:41 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T06:59:41 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T06:59:41 vdb-validate.2.8.2 info: Table 'SRR896743.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6814407 spots for 01_reads/sra/SRR896743.sra
+Written 6814407 spots for 01_reads/sra/SRR896743.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896743 [1/1] ... done!
+Processing GSM1156877 [1/112] ... Done!
+
+Processing GSM1156878 [2/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896744 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:01:10 prefetch.2.8.2: 1) Downloading 'SRR896744'...
+2018-03-20T07:01:10 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:08:32 prefetch.2.8.2: 1) 'SRR896744' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:08:32 vdb-validate.2.8.2 info: Table 'SRR896744.sra' metadata: md5 ok
+2018-03-20T07:08:32 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:08:33 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:08:33 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:08:33 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:08:33 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:08:33 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:08:33 vdb-validate.2.8.2 info: Table 'SRR896744.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7411221 spots for 01_reads/sra/SRR896744.sra
+Written 7411221 spots for 01_reads/sra/SRR896744.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896744 [1/1] ... done!
+Processing GSM1156878 [2/112] ... Done!
+
+Processing GSM1156879 [3/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896745 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:10:08 prefetch.2.8.2: 1) Downloading 'SRR896745'...
+2018-03-20T07:10:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:17:35 prefetch.2.8.2: 1) 'SRR896745' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:17:35 vdb-validate.2.8.2 info: Table 'SRR896745.sra' metadata: md5 ok
+2018-03-20T07:17:35 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:17:36 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:17:36 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:17:36 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:17:36 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:17:36 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:17:36 vdb-validate.2.8.2 info: Table 'SRR896745.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6967043 spots for 01_reads/sra/SRR896745.sra
+Written 6967043 spots for 01_reads/sra/SRR896745.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896745 [1/1] ... done!
+Processing GSM1156879 [3/112] ... Done!
+
+Processing GSM1156880 [4/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896746 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:19:07 prefetch.2.8.2: 1) Downloading 'SRR896746'...
+2018-03-20T07:19:07 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:25:55 prefetch.2.8.2: 1) 'SRR896746' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:25:55 vdb-validate.2.8.2 info: Table 'SRR896746.sra' metadata: md5 ok
+2018-03-20T07:25:55 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:25:56 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:25:56 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:25:56 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:25:56 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:25:56 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:25:56 vdb-validate.2.8.2 info: Table 'SRR896746.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7356815 spots for 01_reads/sra/SRR896746.sra
+Written 7356815 spots for 01_reads/sra/SRR896746.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896746 [1/1] ... done!
+Processing GSM1156880 [4/112] ... Done!
+
+Processing GSM1156881 [5/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896747 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:27:30 prefetch.2.8.2: 1) Downloading 'SRR896747'...
+2018-03-20T07:27:30 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:34:24 prefetch.2.8.2: 1) 'SRR896747' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:34:24 vdb-validate.2.8.2 info: Table 'SRR896747.sra' metadata: md5 ok
+2018-03-20T07:34:24 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:34:25 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:34:25 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:34:25 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:34:25 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:34:25 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:34:25 vdb-validate.2.8.2 info: Table 'SRR896747.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6966862 spots for 01_reads/sra/SRR896747.sra
+Written 6966862 spots for 01_reads/sra/SRR896747.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896747 [1/1] ... done!
+Processing GSM1156881 [5/112] ... Done!
+
+Processing GSM1156882 [6/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896748 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:35:56 prefetch.2.8.2: 1) Downloading 'SRR896748'...
+2018-03-20T07:35:56 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:42:51 prefetch.2.8.2: 1) 'SRR896748' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:42:51 vdb-validate.2.8.2 info: Table 'SRR896748.sra' metadata: md5 ok
+2018-03-20T07:42:51 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:42:52 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:42:52 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:42:52 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:42:52 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:42:52 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:42:52 vdb-validate.2.8.2 info: Table 'SRR896748.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7394653 spots for 01_reads/sra/SRR896748.sra
+Written 7394653 spots for 01_reads/sra/SRR896748.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896748 [1/1] ... done!
+Processing GSM1156882 [6/112] ... Done!
+
+Processing GSM1156883 [7/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896749 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:44:29 prefetch.2.8.2: 1) Downloading 'SRR896749'...
+2018-03-20T07:44:29 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:48:32 prefetch.2.8.2: 1) 'SRR896749' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:48:32 vdb-validate.2.8.2 info: Table 'SRR896749.sra' metadata: md5 ok
+2018-03-20T07:48:32 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:48:33 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:48:33 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:48:33 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:48:33 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:48:33 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:48:33 vdb-validate.2.8.2 info: Table 'SRR896749.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6989906 spots for 01_reads/sra/SRR896749.sra
+Written 6989906 spots for 01_reads/sra/SRR896749.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896749 [1/1] ... done!
+Processing GSM1156883 [7/112] ... Done!
+
+Processing GSM1156884 [8/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896750 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:50:04 prefetch.2.8.2: 1) Downloading 'SRR896750'...
+2018-03-20T07:50:04 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:54:59 prefetch.2.8.2: 1) 'SRR896750' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:54:59 vdb-validate.2.8.2 info: Table 'SRR896750.sra' metadata: md5 ok
+2018-03-20T07:54:59 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:54:59 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:55:00 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:55:00 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:55:00 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:55:00 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:55:00 vdb-validate.2.8.2 info: Table 'SRR896750.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7303636 spots for 01_reads/sra/SRR896750.sra
+Written 7303636 spots for 01_reads/sra/SRR896750.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896750 [1/1] ... done!
+Processing GSM1156884 [8/112] ... Done!
+
+Processing GSM1156885 [9/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896751 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T07:56:34 prefetch.2.8.2: 1) Downloading 'SRR896751'...
+2018-03-20T07:56:34 prefetch.2.8.2:  Downloading via https...
+2018-03-20T07:59:09 prefetch.2.8.2: 1) 'SRR896751' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T07:59:09 vdb-validate.2.8.2 info: Table 'SRR896751.sra' metadata: md5 ok
+2018-03-20T07:59:09 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T07:59:10 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T07:59:11 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T07:59:11 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T07:59:11 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T07:59:11 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T07:59:11 vdb-validate.2.8.2 info: Table 'SRR896751.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6868675 spots for 01_reads/sra/SRR896751.sra
+Written 6868675 spots for 01_reads/sra/SRR896751.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896751 [1/1] ... done!
+Processing GSM1156885 [9/112] ... Done!
+
+Processing GSM1156886 [10/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896752 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:00:41 prefetch.2.8.2: 1) Downloading 'SRR896752'...
+2018-03-20T08:00:41 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:04:32 prefetch.2.8.2: 1) 'SRR896752' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:04:32 vdb-validate.2.8.2 info: Table 'SRR896752.sra' metadata: md5 ok
+2018-03-20T08:04:32 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:04:33 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:04:33 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:04:33 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:04:33 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:04:33 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:04:33 vdb-validate.2.8.2 info: Table 'SRR896752.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7352275 spots for 01_reads/sra/SRR896752.sra
+Written 7352275 spots for 01_reads/sra/SRR896752.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896752 [1/1] ... done!
+Processing GSM1156886 [10/112] ... Done!
+
+Processing GSM1156887 [11/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896753 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:06:08 prefetch.2.8.2: 1) Downloading 'SRR896753'...
+2018-03-20T08:06:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:09:27 prefetch.2.8.2: 1) 'SRR896753' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:09:27 vdb-validate.2.8.2 info: Table 'SRR896753.sra' metadata: md5 ok
+2018-03-20T08:09:27 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:09:27 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:09:28 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:09:28 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:09:28 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:09:28 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:09:28 vdb-validate.2.8.2 info: Table 'SRR896753.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6850503 spots for 01_reads/sra/SRR896753.sra
+Written 6850503 spots for 01_reads/sra/SRR896753.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896753 [1/1] ... done!
+Processing GSM1156887 [11/112] ... Done!
+
+Processing GSM1156888 [12/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896754 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:10:56 prefetch.2.8.2: 1) Downloading 'SRR896754'...
+2018-03-20T08:10:56 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:14:20 prefetch.2.8.2: 1) 'SRR896754' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:14:20 vdb-validate.2.8.2 info: Table 'SRR896754.sra' metadata: md5 ok
+2018-03-20T08:14:20 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:14:21 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:14:21 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:14:21 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:14:21 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:14:21 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:14:21 vdb-validate.2.8.2 info: Table 'SRR896754.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7297477 spots for 01_reads/sra/SRR896754.sra
+Written 7297477 spots for 01_reads/sra/SRR896754.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896754 [1/1] ... done!
+Processing GSM1156888 [12/112] ... Done!
+
+Processing GSM1156889 [13/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896755 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:15:55 prefetch.2.8.2: 1) Downloading 'SRR896755'...
+2018-03-20T08:15:55 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:20:38 prefetch.2.8.2: 1) 'SRR896755' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:20:38 vdb-validate.2.8.2 info: Table 'SRR896755.sra' metadata: md5 ok
+2018-03-20T08:20:38 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:20:38 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:20:39 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:20:39 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:20:39 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:20:39 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:20:39 vdb-validate.2.8.2 info: Table 'SRR896755.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6830041 spots for 01_reads/sra/SRR896755.sra
+Written 6830041 spots for 01_reads/sra/SRR896755.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896755 [1/1] ... done!
+Processing GSM1156889 [13/112] ... Done!
+
+Processing GSM1156890 [14/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896756 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:22:08 prefetch.2.8.2: 1) Downloading 'SRR896756'...
+2018-03-20T08:22:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:26:02 prefetch.2.8.2: 1) 'SRR896756' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:26:02 vdb-validate.2.8.2 info: Table 'SRR896756.sra' metadata: md5 ok
+2018-03-20T08:26:02 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:26:03 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:26:03 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:26:03 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:26:03 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:26:03 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:26:03 vdb-validate.2.8.2 info: Table 'SRR896756.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7444197 spots for 01_reads/sra/SRR896756.sra
+Written 7444197 spots for 01_reads/sra/SRR896756.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896756 [1/1] ... done!
+Processing GSM1156890 [14/112] ... Done!
+
+Processing GSM1156891 [15/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896757 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:27:39 prefetch.2.8.2: 1) Downloading 'SRR896757'...
+2018-03-20T08:27:39 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:29:19 prefetch.2.8.2: 1) 'SRR896757' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:29:19 vdb-validate.2.8.2 info: Table 'SRR896757.sra' metadata: md5 ok
+2018-03-20T08:29:19 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:29:20 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:29:20 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:29:20 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:29:20 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:29:20 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:29:20 vdb-validate.2.8.2 info: Table 'SRR896757.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6927363 spots for 01_reads/sra/SRR896757.sra
+Written 6927363 spots for 01_reads/sra/SRR896757.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896757 [1/1] ... done!
+Processing GSM1156891 [15/112] ... Done!
+
+Processing GSM1156892 [16/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896758 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:30:50 prefetch.2.8.2: 1) Downloading 'SRR896758'...
+2018-03-20T08:30:50 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:32:35 prefetch.2.8.2: 1) 'SRR896758' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:32:35 vdb-validate.2.8.2 info: Table 'SRR896758.sra' metadata: md5 ok
+2018-03-20T08:32:35 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:32:35 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:32:36 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:32:36 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:32:36 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:32:36 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:32:36 vdb-validate.2.8.2 info: Table 'SRR896758.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7394500 spots for 01_reads/sra/SRR896758.sra
+Written 7394500 spots for 01_reads/sra/SRR896758.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896758 [1/1] ... done!
+Processing GSM1156892 [16/112] ... Done!
+
+Processing GSM1156893 [17/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896759 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:34:12 prefetch.2.8.2: 1) Downloading 'SRR896759'...
+2018-03-20T08:34:12 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:36:04 prefetch.2.8.2: 1) 'SRR896759' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:36:04 vdb-validate.2.8.2 info: Table 'SRR896759.sra' metadata: md5 ok
+2018-03-20T08:36:04 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:36:04 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:36:05 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:36:05 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:36:05 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:36:05 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:36:05 vdb-validate.2.8.2 info: Table 'SRR896759.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6651723 spots for 01_reads/sra/SRR896759.sra
+Written 6651723 spots for 01_reads/sra/SRR896759.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896759 [1/1] ... done!
+Processing GSM1156893 [17/112] ... Done!
+
+Processing GSM1156894 [18/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896760 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:37:33 prefetch.2.8.2: 1) Downloading 'SRR896760'...
+2018-03-20T08:37:33 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:39:16 prefetch.2.8.2: 1) 'SRR896760' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:39:16 vdb-validate.2.8.2 info: Table 'SRR896760.sra' metadata: md5 ok
+2018-03-20T08:39:16 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:39:16 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:39:17 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:39:17 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:39:17 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:39:17 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:39:17 vdb-validate.2.8.2 info: Table 'SRR896760.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7287569 spots for 01_reads/sra/SRR896760.sra
+Written 7287569 spots for 01_reads/sra/SRR896760.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896760 [1/1] ... done!
+Processing GSM1156894 [18/112] ... Done!
+
+Processing GSM1156895 [19/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896761 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:40:50 prefetch.2.8.2: 1) Downloading 'SRR896761'...
+2018-03-20T08:40:50 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:42:40 prefetch.2.8.2: 1) 'SRR896761' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:42:40 vdb-validate.2.8.2 info: Table 'SRR896761.sra' metadata: md5 ok
+2018-03-20T08:42:40 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:42:41 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:42:41 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:42:41 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:42:41 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:42:41 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:42:41 vdb-validate.2.8.2 info: Table 'SRR896761.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6894494 spots for 01_reads/sra/SRR896761.sra
+Written 6894494 spots for 01_reads/sra/SRR896761.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896761 [1/1] ... done!
+Processing GSM1156895 [19/112] ... Done!
+
+Processing GSM1156896 [20/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896762 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:44:09 prefetch.2.8.2: 1) Downloading 'SRR896762'...
+2018-03-20T08:44:09 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:45:58 prefetch.2.8.2: 1) 'SRR896762' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:45:58 vdb-validate.2.8.2 info: Table 'SRR896762.sra' metadata: md5 ok
+2018-03-20T08:45:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:45:58 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:45:59 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:45:59 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:45:59 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:45:59 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:45:59 vdb-validate.2.8.2 info: Table 'SRR896762.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7187332 spots for 01_reads/sra/SRR896762.sra
+Written 7187332 spots for 01_reads/sra/SRR896762.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896762 [1/1] ... done!
+Processing GSM1156896 [20/112] ... Done!
+
+Processing GSM1156897 [21/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896763 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:47:31 prefetch.2.8.2: 1) Downloading 'SRR896763'...
+2018-03-20T08:47:31 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:49:15 prefetch.2.8.2: 1) 'SRR896763' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:49:15 vdb-validate.2.8.2 info: Table 'SRR896763.sra' metadata: md5 ok
+2018-03-20T08:49:15 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:49:16 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:49:16 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:49:16 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:49:16 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:49:16 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:49:16 vdb-validate.2.8.2 info: Table 'SRR896763.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6832966 spots for 01_reads/sra/SRR896763.sra
+Written 6832966 spots for 01_reads/sra/SRR896763.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896763 [1/1] ... done!
+Processing GSM1156897 [21/112] ... Done!
+
+Processing GSM1156898 [22/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896764 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:50:43 prefetch.2.8.2: 1) Downloading 'SRR896764'...
+2018-03-20T08:50:43 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:52:37 prefetch.2.8.2: 1) 'SRR896764' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:52:37 vdb-validate.2.8.2 info: Table 'SRR896764.sra' metadata: md5 ok
+2018-03-20T08:52:37 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:52:37 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:52:38 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:52:38 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:52:38 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:52:38 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:52:38 vdb-validate.2.8.2 info: Table 'SRR896764.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7203253 spots for 01_reads/sra/SRR896764.sra
+Written 7203253 spots for 01_reads/sra/SRR896764.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896764 [1/1] ... done!
+Processing GSM1156898 [22/112] ... Done!
+
+Processing GSM1156899 [23/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896765 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:54:09 prefetch.2.8.2: 1) Downloading 'SRR896765'...
+2018-03-20T08:54:09 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:55:43 prefetch.2.8.2: 1) 'SRR896765' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:55:43 vdb-validate.2.8.2 info: Table 'SRR896765.sra' metadata: md5 ok
+2018-03-20T08:55:43 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:55:43 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:55:44 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:55:44 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:55:44 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:55:44 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:55:44 vdb-validate.2.8.2 info: Table 'SRR896765.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6843433 spots for 01_reads/sra/SRR896765.sra
+Written 6843433 spots for 01_reads/sra/SRR896765.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896765 [1/1] ... done!
+Processing GSM1156899 [23/112] ... Done!
+
+Processing GSM1156900 [24/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896766 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T08:57:10 prefetch.2.8.2: 1) Downloading 'SRR896766'...
+2018-03-20T08:57:10 prefetch.2.8.2:  Downloading via https...
+2018-03-20T08:58:59 prefetch.2.8.2: 1) 'SRR896766' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T08:58:59 vdb-validate.2.8.2 info: Table 'SRR896766.sra' metadata: md5 ok
+2018-03-20T08:58:59 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T08:58:59 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T08:59:00 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T08:59:00 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T08:59:00 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T08:59:00 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T08:59:00 vdb-validate.2.8.2 info: Table 'SRR896766.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7135889 spots for 01_reads/sra/SRR896766.sra
+Written 7135889 spots for 01_reads/sra/SRR896766.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896766 [1/1] ... done!
+Processing GSM1156900 [24/112] ... Done!
+
+Processing GSM1156901 [25/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896767 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:00:31 prefetch.2.8.2: 1) Downloading 'SRR896767'...
+2018-03-20T09:00:31 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:02:08 prefetch.2.8.2: 1) 'SRR896767' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:02:08 vdb-validate.2.8.2 info: Table 'SRR896767.sra' metadata: md5 ok
+2018-03-20T09:02:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:02:09 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:02:09 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:02:09 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:02:09 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:02:09 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:02:09 vdb-validate.2.8.2 info: Table 'SRR896767.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6720539 spots for 01_reads/sra/SRR896767.sra
+Written 6720539 spots for 01_reads/sra/SRR896767.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896767 [1/1] ... done!
+Processing GSM1156901 [25/112] ... Done!
+
+Processing GSM1156902 [26/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896768 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:03:34 prefetch.2.8.2: 1) Downloading 'SRR896768'...
+2018-03-20T09:03:34 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:04:55 prefetch.2.8.2: 1) 'SRR896768' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:04:55 vdb-validate.2.8.2 info: Table 'SRR896768.sra' metadata: md5 ok
+2018-03-20T09:04:55 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:04:56 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:04:56 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:04:56 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:04:56 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:04:57 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:04:57 vdb-validate.2.8.2 info: Table 'SRR896768.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7177535 spots for 01_reads/sra/SRR896768.sra
+Written 7177535 spots for 01_reads/sra/SRR896768.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896768 [1/1] ... done!
+Processing GSM1156902 [26/112] ... Done!
+
+Processing GSM1156903 [27/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896769 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:06:28 prefetch.2.8.2: 1) Downloading 'SRR896769'...
+2018-03-20T09:06:28 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:08:03 prefetch.2.8.2: 1) 'SRR896769' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:08:03 vdb-validate.2.8.2 info: Table 'SRR896769.sra' metadata: md5 ok
+2018-03-20T09:08:03 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:08:03 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:08:04 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:08:04 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:08:04 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:08:04 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:08:04 vdb-validate.2.8.2 info: Table 'SRR896769.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6727336 spots for 01_reads/sra/SRR896769.sra
+Written 6727336 spots for 01_reads/sra/SRR896769.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896769 [1/1] ... done!
+Processing GSM1156903 [27/112] ... Done!
+
+Processing GSM1156904 [28/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896770 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:09:29 prefetch.2.8.2: 1) Downloading 'SRR896770'...
+2018-03-20T09:09:29 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:11:00 prefetch.2.8.2: 1) 'SRR896770' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:11:00 vdb-validate.2.8.2 info: Table 'SRR896770.sra' metadata: md5 ok
+2018-03-20T09:11:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:11:00 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:11:01 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:11:01 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:11:01 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:11:01 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:11:01 vdb-validate.2.8.2 info: Table 'SRR896770.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7085987 spots for 01_reads/sra/SRR896770.sra
+Written 7085987 spots for 01_reads/sra/SRR896770.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896770 [1/1] ... done!
+Processing GSM1156904 [28/112] ... Done!
+
+Processing GSM1156905 [29/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896771 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:12:30 prefetch.2.8.2: 1) Downloading 'SRR896771'...
+2018-03-20T09:12:30 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:14:31 prefetch.2.8.2: 1) 'SRR896771' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:14:31 vdb-validate.2.8.2 info: Table 'SRR896771.sra' metadata: md5 ok
+2018-03-20T09:14:31 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:14:32 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:14:32 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:14:32 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:14:32 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:14:32 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:14:32 vdb-validate.2.8.2 info: Table 'SRR896771.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6718319 spots for 01_reads/sra/SRR896771.sra
+Written 6718319 spots for 01_reads/sra/SRR896771.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896771 [1/1] ... done!
+Processing GSM1156905 [29/112] ... Done!
+
+Processing GSM1156906 [30/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896772 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:15:57 prefetch.2.8.2: 1) Downloading 'SRR896772'...
+2018-03-20T09:15:57 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:17:41 prefetch.2.8.2: 1) 'SRR896772' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:17:41 vdb-validate.2.8.2 info: Table 'SRR896772.sra' metadata: md5 ok
+2018-03-20T09:17:41 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:17:42 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:17:42 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:17:42 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:17:42 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:17:42 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:17:42 vdb-validate.2.8.2 info: Table 'SRR896772.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7259842 spots for 01_reads/sra/SRR896772.sra
+Written 7259842 spots for 01_reads/sra/SRR896772.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896772 [1/1] ... done!
+Processing GSM1156906 [30/112] ... Done!
+
+Processing GSM1156907 [31/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896773 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:19:15 prefetch.2.8.2: 1) Downloading 'SRR896773'...
+2018-03-20T09:19:15 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:21:08 prefetch.2.8.2: 1) 'SRR896773' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:21:08 vdb-validate.2.8.2 info: Table 'SRR896773.sra' metadata: md5 ok
+2018-03-20T09:21:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:21:08 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:21:09 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:21:09 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:21:09 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:21:09 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:21:09 vdb-validate.2.8.2 info: Table 'SRR896773.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 6798727 spots for 01_reads/sra/SRR896773.sra
+Written 6798727 spots for 01_reads/sra/SRR896773.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896773 [1/1] ... done!
+Processing GSM1156907 [31/112] ... Done!
+
+Processing GSM1156908 [32/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896774 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:22:34 prefetch.2.8.2: 1) Downloading 'SRR896774'...
+2018-03-20T09:22:34 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:24:25 prefetch.2.8.2: 1) 'SRR896774' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:24:25 vdb-validate.2.8.2 info: Table 'SRR896774.sra' metadata: md5 ok
+2018-03-20T09:24:25 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:24:25 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:24:26 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:24:26 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:24:26 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:24:26 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:24:26 vdb-validate.2.8.2 info: Table 'SRR896774.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7241273 spots for 01_reads/sra/SRR896774.sra
+Written 7241273 spots for 01_reads/sra/SRR896774.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896774 [1/1] ... done!
+Processing GSM1156908 [32/112] ... Done!
+
+Processing GSM1156909 [33/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896775 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:25:57 prefetch.2.8.2: 1) Downloading 'SRR896775'...
+2018-03-20T09:25:57 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:27:34 prefetch.2.8.2: 1) 'SRR896775' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:27:34 vdb-validate.2.8.2 info: Table 'SRR896775.sra' metadata: md5 ok
+2018-03-20T09:27:34 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:27:35 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:27:35 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:27:35 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:27:35 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:27:35 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:27:35 vdb-validate.2.8.2 info: Table 'SRR896775.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7065028 spots for 01_reads/sra/SRR896775.sra
+Written 7065028 spots for 01_reads/sra/SRR896775.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896775 [1/1] ... done!
+Processing GSM1156909 [33/112] ... Done!
+
+Processing GSM1156910 [34/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896776 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:29:05 prefetch.2.8.2: 1) Downloading 'SRR896776'...
+2018-03-20T09:29:05 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:31:44 prefetch.2.8.2: 1) 'SRR896776' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:31:44 vdb-validate.2.8.2 info: Table 'SRR896776.sra' metadata: md5 ok
+2018-03-20T09:31:44 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:31:45 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:31:45 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:31:45 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:31:45 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:31:45 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:31:45 vdb-validate.2.8.2 info: Table 'SRR896776.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7715168 spots for 01_reads/sra/SRR896776.sra
+Written 7715168 spots for 01_reads/sra/SRR896776.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896776 [1/1] ... done!
+Processing GSM1156910 [34/112] ... Done!
+
+Processing GSM1156911 [35/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896777 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:33:21 prefetch.2.8.2: 1) Downloading 'SRR896777'...
+2018-03-20T09:33:21 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:34:51 prefetch.2.8.2: 1) 'SRR896777' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:34:52 vdb-validate.2.8.2 info: Table 'SRR896777.sra' metadata: md5 ok
+2018-03-20T09:34:52 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:34:52 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:34:53 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:34:53 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:34:53 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:34:53 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:34:53 vdb-validate.2.8.2 info: Table 'SRR896777.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7264210 spots for 01_reads/sra/SRR896777.sra
+Written 7264210 spots for 01_reads/sra/SRR896777.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896777 [1/1] ... done!
+Processing GSM1156911 [35/112] ... Done!
+
+Processing GSM1156912 [36/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896778 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:36:25 prefetch.2.8.2: 1) Downloading 'SRR896778'...
+2018-03-20T09:36:25 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:39:56 prefetch.2.8.2: 1) 'SRR896778' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:39:56 vdb-validate.2.8.2 info: Table 'SRR896778.sra' metadata: md5 ok
+2018-03-20T09:39:56 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:39:57 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:39:57 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:39:57 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:39:57 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:39:57 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:39:57 vdb-validate.2.8.2 info: Table 'SRR896778.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7650254 spots for 01_reads/sra/SRR896778.sra
+Written 7650254 spots for 01_reads/sra/SRR896778.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896778 [1/1] ... done!
+Processing GSM1156912 [36/112] ... Done!
+
+Processing GSM1156913 [37/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896779 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:41:32 prefetch.2.8.2: 1) Downloading 'SRR896779'...
+2018-03-20T09:41:32 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:46:08 prefetch.2.8.2: 1) 'SRR896779' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:46:08 vdb-validate.2.8.2 info: Table 'SRR896779.sra' metadata: md5 ok
+2018-03-20T09:46:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:46:09 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:46:10 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:46:10 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:46:10 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:46:10 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:46:10 vdb-validate.2.8.2 info: Table 'SRR896779.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7229213 spots for 01_reads/sra/SRR896779.sra
+Written 7229213 spots for 01_reads/sra/SRR896779.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896779 [1/1] ... done!
+Processing GSM1156913 [37/112] ... Done!
+
+Processing GSM1156914 [38/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896780 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:47:41 prefetch.2.8.2: 1) Downloading 'SRR896780'...
+2018-03-20T09:47:41 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:50:09 prefetch.2.8.2: 1) 'SRR896780' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:50:09 vdb-validate.2.8.2 info: Table 'SRR896780.sra' metadata: md5 ok
+2018-03-20T09:50:09 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:50:09 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:50:10 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:50:10 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:50:10 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:50:10 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:50:10 vdb-validate.2.8.2 info: Table 'SRR896780.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7683232 spots for 01_reads/sra/SRR896780.sra
+Written 7683232 spots for 01_reads/sra/SRR896780.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896780 [1/1] ... done!
+Processing GSM1156914 [38/112] ... Done!
+
+Processing GSM1156915 [39/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896781 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:51:45 prefetch.2.8.2: 1) Downloading 'SRR896781'...
+2018-03-20T09:51:45 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:53:07 prefetch.2.8.2: 1) 'SRR896781' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:53:07 vdb-validate.2.8.2 info: Table 'SRR896781.sra' metadata: md5 ok
+2018-03-20T09:53:07 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:53:07 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:53:08 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:53:08 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:53:08 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:53:08 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:53:08 vdb-validate.2.8.2 info: Table 'SRR896781.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7256790 spots for 01_reads/sra/SRR896781.sra
+Written 7256790 spots for 01_reads/sra/SRR896781.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896781 [1/1] ... done!
+Processing GSM1156915 [39/112] ... Done!
+
+Processing GSM1156916 [40/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896782 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:54:38 prefetch.2.8.2: 1) Downloading 'SRR896782'...
+2018-03-20T09:54:38 prefetch.2.8.2:  Downloading via https...
+2018-03-20T09:57:09 prefetch.2.8.2: 1) 'SRR896782' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T09:57:09 vdb-validate.2.8.2 info: Table 'SRR896782.sra' metadata: md5 ok
+2018-03-20T09:57:09 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T09:57:10 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T09:57:10 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T09:57:10 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T09:57:10 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T09:57:10 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T09:57:10 vdb-validate.2.8.2 info: Table 'SRR896782.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7597667 spots for 01_reads/sra/SRR896782.sra
+Written 7597667 spots for 01_reads/sra/SRR896782.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896782 [1/1] ... done!
+Processing GSM1156916 [40/112] ... Done!
+
+Processing GSM1156917 [41/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896783 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T09:58:46 prefetch.2.8.2: 1) Downloading 'SRR896783'...
+2018-03-20T09:58:46 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:00:52 prefetch.2.8.2: 1) 'SRR896783' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:00:52 vdb-validate.2.8.2 info: Table 'SRR896783.sra' metadata: md5 ok
+2018-03-20T10:00:52 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:00:52 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:00:53 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:00:53 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:00:53 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:00:53 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:00:53 vdb-validate.2.8.2 info: Table 'SRR896783.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7114461 spots for 01_reads/sra/SRR896783.sra
+Written 7114461 spots for 01_reads/sra/SRR896783.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896783 [1/1] ... done!
+Processing GSM1156917 [41/112] ... Done!
+
+Processing GSM1156918 [42/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896784 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:02:22 prefetch.2.8.2: 1) Downloading 'SRR896784'...
+2018-03-20T10:02:22 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:04:34 prefetch.2.8.2: 1) 'SRR896784' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:04:34 vdb-validate.2.8.2 info: Table 'SRR896784.sra' metadata: md5 ok
+2018-03-20T10:04:34 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:04:35 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:04:36 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:04:36 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:04:36 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:04:36 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:04:36 vdb-validate.2.8.2 info: Table 'SRR896784.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7647092 spots for 01_reads/sra/SRR896784.sra
+Written 7647092 spots for 01_reads/sra/SRR896784.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896784 [1/1] ... done!
+Processing GSM1156918 [42/112] ... Done!
+
+Processing GSM1156919 [43/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896785 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:06:12 prefetch.2.8.2: 1) Downloading 'SRR896785'...
+2018-03-20T10:06:12 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:07:41 prefetch.2.8.2: 1) 'SRR896785' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:07:41 vdb-validate.2.8.2 info: Table 'SRR896785.sra' metadata: md5 ok
+2018-03-20T10:07:41 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:07:41 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:07:42 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:07:42 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:07:42 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:07:42 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:07:42 vdb-validate.2.8.2 info: Table 'SRR896785.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7112814 spots for 01_reads/sra/SRR896785.sra
+Written 7112814 spots for 01_reads/sra/SRR896785.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896785 [1/1] ... done!
+Processing GSM1156919 [43/112] ... Done!
+
+Processing GSM1156920 [44/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896786 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:09:12 prefetch.2.8.2: 1) Downloading 'SRR896786'...
+2018-03-20T10:09:12 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:10:45 prefetch.2.8.2: 1) 'SRR896786' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:10:45 vdb-validate.2.8.2 info: Table 'SRR896786.sra' metadata: md5 ok
+2018-03-20T10:10:45 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:10:45 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:10:46 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:10:46 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:10:46 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:10:46 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:10:46 vdb-validate.2.8.2 info: Table 'SRR896786.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7569214 spots for 01_reads/sra/SRR896786.sra
+Written 7569214 spots for 01_reads/sra/SRR896786.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896786 [1/1] ... done!
+Processing GSM1156920 [44/112] ... Done!
+
+Processing GSM1156921 [45/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896787 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:12:20 prefetch.2.8.2: 1) Downloading 'SRR896787'...
+2018-03-20T10:12:20 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:13:58 prefetch.2.8.2: 1) 'SRR896787' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:13:58 vdb-validate.2.8.2 info: Table 'SRR896787.sra' metadata: md5 ok
+2018-03-20T10:13:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:13:58 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:13:59 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:13:59 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:13:59 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:13:59 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:13:59 vdb-validate.2.8.2 info: Table 'SRR896787.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7095305 spots for 01_reads/sra/SRR896787.sra
+Written 7095305 spots for 01_reads/sra/SRR896787.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896787 [1/1] ... done!
+Processing GSM1156921 [45/112] ... Done!
+
+Processing GSM1156922 [46/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896788 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:15:30 prefetch.2.8.2: 1) Downloading 'SRR896788'...
+2018-03-20T10:15:30 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:16:51 prefetch.2.8.2: 1) 'SRR896788' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:16:51 vdb-validate.2.8.2 info: Table 'SRR896788.sra' metadata: md5 ok
+2018-03-20T10:16:51 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:16:51 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:16:52 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:16:52 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:16:52 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:16:52 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:16:52 vdb-validate.2.8.2 info: Table 'SRR896788.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7731696 spots for 01_reads/sra/SRR896788.sra
+Written 7731696 spots for 01_reads/sra/SRR896788.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896788 [1/1] ... done!
+Processing GSM1156922 [46/112] ... Done!
+
+Processing GSM1156923 [47/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896789 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:18:29 prefetch.2.8.2: 1) Downloading 'SRR896789'...
+2018-03-20T10:18:29 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:20:08 prefetch.2.8.2: 1) 'SRR896789' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:20:08 vdb-validate.2.8.2 info: Table 'SRR896789.sra' metadata: md5 ok
+2018-03-20T10:20:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:20:09 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:20:09 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:20:09 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:20:09 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:20:09 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:20:09 vdb-validate.2.8.2 info: Table 'SRR896789.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7198411 spots for 01_reads/sra/SRR896789.sra
+Written 7198411 spots for 01_reads/sra/SRR896789.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896789 [1/1] ... done!
+Processing GSM1156923 [47/112] ... Done!
+
+Processing GSM1156924 [48/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896790 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:21:40 prefetch.2.8.2: 1) Downloading 'SRR896790'...
+2018-03-20T10:21:40 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:23:27 prefetch.2.8.2: 1) 'SRR896790' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:23:27 vdb-validate.2.8.2 info: Table 'SRR896790.sra' metadata: md5 ok
+2018-03-20T10:23:27 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:23:28 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:23:28 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:23:28 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:23:28 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:23:28 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:23:28 vdb-validate.2.8.2 info: Table 'SRR896790.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 7691361 spots for 01_reads/sra/SRR896790.sra
+Written 7691361 spots for 01_reads/sra/SRR896790.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896790 [1/1] ... done!
+Processing GSM1156924 [48/112] ... Done!
+
+Processing GSM1156925 [49/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896791 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:25:05 prefetch.2.8.2: 1) Downloading 'SRR896791'...
+2018-03-20T10:25:05 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:26:49 prefetch.2.8.2: 1) 'SRR896791' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Table 'SRR896791.sra' metadata: md5 ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:26:49 vdb-validate.2.8.2 info: Table 'SRR896791.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5331349 spots for 01_reads/sra/SRR896791.sra
+Written 5331349 spots for 01_reads/sra/SRR896791.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896791 [1/1] ... done!
+Processing GSM1156925 [49/112] ... Done!
+
+Processing GSM1156926 [50/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896792 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:27:59 prefetch.2.8.2: 1) Downloading 'SRR896792'...
+2018-03-20T10:27:59 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:29:40 prefetch.2.8.2: 1) 'SRR896792' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:29:40 vdb-validate.2.8.2 info: Table 'SRR896792.sra' metadata: md5 ok
+2018-03-20T10:29:40 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:29:41 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:29:41 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:29:41 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:29:41 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:29:41 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:29:41 vdb-validate.2.8.2 info: Table 'SRR896792.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5569605 spots for 01_reads/sra/SRR896792.sra
+Written 5569605 spots for 01_reads/sra/SRR896792.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896792 [1/1] ... done!
+Processing GSM1156926 [50/112] ... Done!
+
+Processing GSM1156927 [51/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896793 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:30:54 prefetch.2.8.2: 1) Downloading 'SRR896793'...
+2018-03-20T10:30:54 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:32:10 prefetch.2.8.2: 1) 'SRR896793' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:32:10 vdb-validate.2.8.2 info: Table 'SRR896793.sra' metadata: md5 ok
+2018-03-20T10:32:10 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:32:10 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:32:11 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:32:11 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:32:11 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:32:11 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:32:11 vdb-validate.2.8.2 info: Table 'SRR896793.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5166673 spots for 01_reads/sra/SRR896793.sra
+Written 5166673 spots for 01_reads/sra/SRR896793.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896793 [1/1] ... done!
+Processing GSM1156927 [51/112] ... Done!
+
+Processing GSM1156928 [52/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896794 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:33:18 prefetch.2.8.2: 1) Downloading 'SRR896794'...
+2018-03-20T10:33:18 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:34:33 prefetch.2.8.2: 1) 'SRR896794' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:34:33 vdb-validate.2.8.2 info: Table 'SRR896794.sra' metadata: md5 ok
+2018-03-20T10:34:33 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:34:34 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:34:34 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:34:34 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:34:34 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:34:34 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:34:34 vdb-validate.2.8.2 info: Table 'SRR896794.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5592659 spots for 01_reads/sra/SRR896794.sra
+Written 5592659 spots for 01_reads/sra/SRR896794.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896794 [1/1] ... done!
+Processing GSM1156928 [52/112] ... Done!
+
+Processing GSM1156929 [53/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896795 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:35:46 prefetch.2.8.2: 1) Downloading 'SRR896795'...
+2018-03-20T10:35:46 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:52:54 prefetch.2.8.2: 1) 'SRR896795' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Table 'SRR896795.sra' metadata: md5 ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:52:54 vdb-validate.2.8.2 info: Table 'SRR896795.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5315666 spots for 01_reads/sra/SRR896795.sra
+Written 5315666 spots for 01_reads/sra/SRR896795.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896795 [1/1] ... done!
+Processing GSM1156929 [53/112] ... Done!
+
+Processing GSM1156930 [54/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896796 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:54:05 prefetch.2.8.2: 1) Downloading 'SRR896796'...
+2018-03-20T10:54:05 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:56:24 prefetch.2.8.2: 1) 'SRR896796' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:56:24 vdb-validate.2.8.2 info: Table 'SRR896796.sra' metadata: md5 ok
+2018-03-20T10:56:24 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:56:25 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:56:25 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:56:25 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:56:25 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:56:25 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:56:25 vdb-validate.2.8.2 info: Table 'SRR896796.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5709118 spots for 01_reads/sra/SRR896796.sra
+Written 5709118 spots for 01_reads/sra/SRR896796.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896796 [1/1] ... done!
+Processing GSM1156930 [54/112] ... Done!
+
+Processing GSM1156931 [55/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896797 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T10:57:39 prefetch.2.8.2: 1) Downloading 'SRR896797'...
+2018-03-20T10:57:39 prefetch.2.8.2:  Downloading via https...
+2018-03-20T10:59:20 prefetch.2.8.2: 1) 'SRR896797' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T10:59:20 vdb-validate.2.8.2 info: Table 'SRR896797.sra' metadata: md5 ok
+2018-03-20T10:59:20 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T10:59:21 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T10:59:21 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T10:59:21 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T10:59:21 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T10:59:21 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T10:59:21 vdb-validate.2.8.2 info: Table 'SRR896797.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5373913 spots for 01_reads/sra/SRR896797.sra
+Written 5373913 spots for 01_reads/sra/SRR896797.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896797 [1/1] ... done!
+Processing GSM1156931 [55/112] ... Done!
+
+Processing GSM1156932 [56/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896798 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:00:31 prefetch.2.8.2: 1) Downloading 'SRR896798'...
+2018-03-20T11:00:31 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:02:00 prefetch.2.8.2: 1) 'SRR896798' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:02:00 vdb-validate.2.8.2 info: Table 'SRR896798.sra' metadata: md5 ok
+2018-03-20T11:02:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:02:01 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:02:01 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:02:01 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:02:01 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:02:01 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:02:01 vdb-validate.2.8.2 info: Table 'SRR896798.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5540324 spots for 01_reads/sra/SRR896798.sra
+Written 5540324 spots for 01_reads/sra/SRR896798.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896798 [1/1] ... done!
+Processing GSM1156932 [56/112] ... Done!
+
+Processing GSM1156933 [57/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896799 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:03:13 prefetch.2.8.2: 1) Downloading 'SRR896799'...
+2018-03-20T11:03:13 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:04:27 prefetch.2.8.2: 1) 'SRR896799' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:04:27 vdb-validate.2.8.2 info: Table 'SRR896799.sra' metadata: md5 ok
+2018-03-20T11:04:27 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:04:28 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:04:28 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:04:28 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:04:28 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:04:28 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:04:28 vdb-validate.2.8.2 info: Table 'SRR896799.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5307068 spots for 01_reads/sra/SRR896799.sra
+Written 5307068 spots for 01_reads/sra/SRR896799.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896799 [1/1] ... done!
+Processing GSM1156933 [57/112] ... Done!
+
+Processing GSM1156934 [58/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896800 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:05:38 prefetch.2.8.2: 1) Downloading 'SRR896800'...
+2018-03-20T11:05:38 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:08:10 prefetch.2.8.2: 1) 'SRR896800' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:08:10 vdb-validate.2.8.2 info: Table 'SRR896800.sra' metadata: md5 ok
+2018-03-20T11:08:10 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:08:11 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:08:11 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:08:11 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:08:11 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:08:11 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:08:11 vdb-validate.2.8.2 info: Table 'SRR896800.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5600713 spots for 01_reads/sra/SRR896800.sra
+Written 5600713 spots for 01_reads/sra/SRR896800.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896800 [1/1] ... done!
+Processing GSM1156934 [58/112] ... Done!
+
+Processing GSM1156935 [59/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896801 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:09:24 prefetch.2.8.2: 1) Downloading 'SRR896801'...
+2018-03-20T11:09:24 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:10:47 prefetch.2.8.2: 1) 'SRR896801' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:10:47 vdb-validate.2.8.2 info: Table 'SRR896801.sra' metadata: md5 ok
+2018-03-20T11:10:47 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:10:48 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:10:48 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:10:48 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:10:48 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:10:48 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:10:48 vdb-validate.2.8.2 info: Table 'SRR896801.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5219613 spots for 01_reads/sra/SRR896801.sra
+Written 5219613 spots for 01_reads/sra/SRR896801.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896801 [1/1] ... done!
+Processing GSM1156935 [59/112] ... Done!
+
+Processing GSM1156936 [60/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896802 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:11:57 prefetch.2.8.2: 1) Downloading 'SRR896802'...
+2018-03-20T11:11:57 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:13:25 prefetch.2.8.2: 1) 'SRR896802' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:13:25 vdb-validate.2.8.2 info: Table 'SRR896802.sra' metadata: md5 ok
+2018-03-20T11:13:25 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:13:26 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:13:26 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:13:26 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:13:26 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:13:26 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:13:26 vdb-validate.2.8.2 info: Table 'SRR896802.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5704148 spots for 01_reads/sra/SRR896802.sra
+Written 5704148 spots for 01_reads/sra/SRR896802.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896802 [1/1] ... done!
+Processing GSM1156936 [60/112] ... Done!
+
+Processing GSM1156937 [61/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896803 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:14:40 prefetch.2.8.2: 1) Downloading 'SRR896803'...
+2018-03-20T11:14:40 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:16:03 prefetch.2.8.2: 1) 'SRR896803' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Table 'SRR896803.sra' metadata: md5 ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:16:04 vdb-validate.2.8.2 info: Table 'SRR896803.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5225440 spots for 01_reads/sra/SRR896803.sra
+Written 5225440 spots for 01_reads/sra/SRR896803.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896803 [1/1] ... done!
+Processing GSM1156937 [61/112] ... Done!
+
+Processing GSM1156938 [62/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896804 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:17:13 prefetch.2.8.2: 1) Downloading 'SRR896804'...
+2018-03-20T11:17:13 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:19:05 prefetch.2.8.2: 1) 'SRR896804' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:19:05 vdb-validate.2.8.2 info: Table 'SRR896804.sra' metadata: md5 ok
+2018-03-20T11:19:05 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:19:05 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:19:05 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:19:06 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:19:06 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:19:06 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:19:06 vdb-validate.2.8.2 info: Table 'SRR896804.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5752069 spots for 01_reads/sra/SRR896804.sra
+Written 5752069 spots for 01_reads/sra/SRR896804.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896804 [1/1] ... done!
+Processing GSM1156938 [62/112] ... Done!
+
+Processing GSM1156939 [63/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896805 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:20:21 prefetch.2.8.2: 1) Downloading 'SRR896805'...
+2018-03-20T11:20:21 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:21:36 prefetch.2.8.2: 1) 'SRR896805' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:21:36 vdb-validate.2.8.2 info: Table 'SRR896805.sra' metadata: md5 ok
+2018-03-20T11:21:36 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:21:37 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:21:37 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:21:37 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:21:37 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:21:37 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:21:37 vdb-validate.2.8.2 info: Table 'SRR896805.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5286007 spots for 01_reads/sra/SRR896805.sra
+Written 5286007 spots for 01_reads/sra/SRR896805.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896805 [1/1] ... done!
+Processing GSM1156939 [63/112] ... Done!
+
+Processing GSM1156940 [64/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896806 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:22:47 prefetch.2.8.2: 1) Downloading 'SRR896806'...
+2018-03-20T11:22:47 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:24:20 prefetch.2.8.2: 1) 'SRR896806' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:24:20 vdb-validate.2.8.2 info: Table 'SRR896806.sra' metadata: md5 ok
+2018-03-20T11:24:20 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:24:21 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:24:21 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:24:21 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:24:21 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:24:21 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:24:21 vdb-validate.2.8.2 info: Table 'SRR896806.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 5674176 spots for 01_reads/sra/SRR896806.sra
+Written 5674176 spots for 01_reads/sra/SRR896806.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896806 [1/1] ... done!
+Processing GSM1156940 [64/112] ... Done!
+
+Processing GSM1156941 [65/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896807 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:25:36 prefetch.2.8.2: 1) Downloading 'SRR896807'...
+2018-03-20T11:25:36 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:26:47 prefetch.2.8.2: 1) 'SRR896807' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Table 'SRR896807.sra' metadata: md5 ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:26:47 vdb-validate.2.8.2 info: Table 'SRR896807.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4031748 spots for 01_reads/sra/SRR896807.sra
+Written 4031748 spots for 01_reads/sra/SRR896807.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896807 [1/1] ... done!
+Processing GSM1156941 [65/112] ... Done!
+
+Processing GSM1156942 [66/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896808 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:27:44 prefetch.2.8.2: 1) Downloading 'SRR896808'...
+2018-03-20T11:27:44 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:28:45 prefetch.2.8.2: 1) 'SRR896808' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Table 'SRR896808.sra' metadata: md5 ok
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:28:45 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:28:46 vdb-validate.2.8.2 info: Table 'SRR896808.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4436455 spots for 01_reads/sra/SRR896808.sra
+Written 4436455 spots for 01_reads/sra/SRR896808.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896808 [1/1] ... done!
+Processing GSM1156942 [66/112] ... Done!
+
+Processing GSM1156943 [67/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896809 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:29:47 prefetch.2.8.2: 1) Downloading 'SRR896809'...
+2018-03-20T11:29:47 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:30:55 prefetch.2.8.2: 1) 'SRR896809' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Table 'SRR896809.sra' metadata: md5 ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:30:55 vdb-validate.2.8.2 info: Table 'SRR896809.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4005272 spots for 01_reads/sra/SRR896809.sra
+Written 4005272 spots for 01_reads/sra/SRR896809.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896809 [1/1] ... done!
+Processing GSM1156943 [67/112] ... Done!
+
+Processing GSM1156944 [68/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896810 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:31:51 prefetch.2.8.2: 1) Downloading 'SRR896810'...
+2018-03-20T11:31:51 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:32:52 prefetch.2.8.2: 1) 'SRR896810' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:32:52 vdb-validate.2.8.2 info: Table 'SRR896810.sra' metadata: md5 ok
+2018-03-20T11:32:52 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:32:52 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:32:53 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:32:53 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:32:53 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:32:53 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:32:53 vdb-validate.2.8.2 info: Table 'SRR896810.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4369847 spots for 01_reads/sra/SRR896810.sra
+Written 4369847 spots for 01_reads/sra/SRR896810.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896810 [1/1] ... done!
+Processing GSM1156944 [68/112] ... Done!
+
+Processing GSM1156945 [69/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896811 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:33:53 prefetch.2.8.2: 1) Downloading 'SRR896811'...
+2018-03-20T11:33:53 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:34:52 prefetch.2.8.2: 1) 'SRR896811' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:34:52 vdb-validate.2.8.2 info: Table 'SRR896811.sra' metadata: md5 ok
+2018-03-20T11:34:52 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:34:53 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:34:53 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:34:53 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:34:53 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:34:53 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:34:53 vdb-validate.2.8.2 info: Table 'SRR896811.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4036414 spots for 01_reads/sra/SRR896811.sra
+Written 4036414 spots for 01_reads/sra/SRR896811.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896811 [1/1] ... done!
+Processing GSM1156945 [69/112] ... Done!
+
+Processing GSM1156946 [70/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896812 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:35:49 prefetch.2.8.2: 1) Downloading 'SRR896812'...
+2018-03-20T11:35:49 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:37:05 prefetch.2.8.2: 1) 'SRR896812' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:37:05 vdb-validate.2.8.2 info: Table 'SRR896812.sra' metadata: md5 ok
+2018-03-20T11:37:05 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:37:05 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:37:06 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:37:06 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:37:06 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:37:06 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:37:06 vdb-validate.2.8.2 info: Table 'SRR896812.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4405850 spots for 01_reads/sra/SRR896812.sra
+Written 4405850 spots for 01_reads/sra/SRR896812.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896812 [1/1] ... done!
+Processing GSM1156946 [70/112] ... Done!
+
+Processing GSM1156947 [71/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896813 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:38:08 prefetch.2.8.2: 1) Downloading 'SRR896813'...
+2018-03-20T11:38:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:39:45 prefetch.2.8.2: 1) 'SRR896813' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Table 'SRR896813.sra' metadata: md5 ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:39:45 vdb-validate.2.8.2 info: Table 'SRR896813.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4031794 spots for 01_reads/sra/SRR896813.sra
+Written 4031794 spots for 01_reads/sra/SRR896813.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896813 [1/1] ... done!
+Processing GSM1156947 [71/112] ... Done!
+
+Processing GSM1156948 [72/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896814 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:40:42 prefetch.2.8.2: 1) Downloading 'SRR896814'...
+2018-03-20T11:40:42 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:41:50 prefetch.2.8.2: 1) 'SRR896814' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:41:50 vdb-validate.2.8.2 info: Table 'SRR896814.sra' metadata: md5 ok
+2018-03-20T11:41:50 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:41:51 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:41:51 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:41:51 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:41:51 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:41:51 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:41:51 vdb-validate.2.8.2 info: Table 'SRR896814.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4334494 spots for 01_reads/sra/SRR896814.sra
+Written 4334494 spots for 01_reads/sra/SRR896814.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896814 [1/1] ... done!
+Processing GSM1156948 [72/112] ... Done!
+
+Processing GSM1156949 [73/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896815 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:42:51 prefetch.2.8.2: 1) Downloading 'SRR896815'...
+2018-03-20T11:42:51 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:44:27 prefetch.2.8.2: 1) 'SRR896815' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Table 'SRR896815.sra' metadata: md5 ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:44:27 vdb-validate.2.8.2 info: Table 'SRR896815.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 3956329 spots for 01_reads/sra/SRR896815.sra
+Written 3956329 spots for 01_reads/sra/SRR896815.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896815 [1/1] ... done!
+Processing GSM1156949 [73/112] ... Done!
+
+Processing GSM1156950 [74/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896816 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:45:25 prefetch.2.8.2: 1) Downloading 'SRR896816'...
+2018-03-20T11:45:25 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:47:32 prefetch.2.8.2: 1) 'SRR896816' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:47:32 vdb-validate.2.8.2 info: Table 'SRR896816.sra' metadata: md5 ok
+2018-03-20T11:47:32 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:47:32 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:47:33 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:47:33 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:47:33 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:47:33 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:47:33 vdb-validate.2.8.2 info: Table 'SRR896816.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4364091 spots for 01_reads/sra/SRR896816.sra
+Written 4364091 spots for 01_reads/sra/SRR896816.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896816 [1/1] ... done!
+Processing GSM1156950 [74/112] ... Done!
+
+Processing GSM1156951 [75/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896817 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:48:33 prefetch.2.8.2: 1) Downloading 'SRR896817'...
+2018-03-20T11:48:33 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:50:11 prefetch.2.8.2: 1) 'SRR896817' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:50:11 vdb-validate.2.8.2 info: Table 'SRR896817.sra' metadata: md5 ok
+2018-03-20T11:50:11 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:50:11 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:50:12 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:50:12 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:50:12 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:50:12 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:50:12 vdb-validate.2.8.2 info: Table 'SRR896817.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 3936927 spots for 01_reads/sra/SRR896817.sra
+Written 3936927 spots for 01_reads/sra/SRR896817.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896817 [1/1] ... done!
+Processing GSM1156951 [75/112] ... Done!
+
+Processing GSM1156952 [76/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896818 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:51:08 prefetch.2.8.2: 1) Downloading 'SRR896818'...
+2018-03-20T11:51:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:53:54 prefetch.2.8.2: 1) 'SRR896818' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:53:54 vdb-validate.2.8.2 info: Table 'SRR896818.sra' metadata: md5 ok
+2018-03-20T11:53:54 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:53:54 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:53:55 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:53:55 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:53:55 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:53:55 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:53:55 vdb-validate.2.8.2 info: Table 'SRR896818.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4399647 spots for 01_reads/sra/SRR896818.sra
+Written 4399647 spots for 01_reads/sra/SRR896818.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896818 [1/1] ... done!
+Processing GSM1156952 [76/112] ... Done!
+
+Processing GSM1156953 [77/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896819 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:54:54 prefetch.2.8.2: 1) Downloading 'SRR896819'...
+2018-03-20T11:54:54 prefetch.2.8.2:  Downloading via https...
+2018-03-20T11:57:33 prefetch.2.8.2: 1) 'SRR896819' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T11:57:33 vdb-validate.2.8.2 info: Table 'SRR896819.sra' metadata: md5 ok
+2018-03-20T11:57:33 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T11:57:33 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T11:57:34 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T11:57:34 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T11:57:34 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T11:57:34 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T11:57:34 vdb-validate.2.8.2 info: Table 'SRR896819.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 3936427 spots for 01_reads/sra/SRR896819.sra
+Written 3936427 spots for 01_reads/sra/SRR896819.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896819 [1/1] ... done!
+Processing GSM1156953 [77/112] ... Done!
+
+Processing GSM1156954 [78/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896820 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T11:58:28 prefetch.2.8.2: 1) Downloading 'SRR896820'...
+2018-03-20T11:58:28 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:00:45 prefetch.2.8.2: 1) 'SRR896820' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:00:45 vdb-validate.2.8.2 info: Table 'SRR896820.sra' metadata: md5 ok
+2018-03-20T12:00:45 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:00:45 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:00:46 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:00:46 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T12:00:46 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:00:46 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:00:46 vdb-validate.2.8.2 info: Table 'SRR896820.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4452224 spots for 01_reads/sra/SRR896820.sra
+Written 4452224 spots for 01_reads/sra/SRR896820.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896820 [1/1] ... done!
+Processing GSM1156954 [78/112] ... Done!
+
+Processing GSM1156955 [79/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896821 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:01:47 prefetch.2.8.2: 1) Downloading 'SRR896821'...
+2018-03-20T12:01:47 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:03:19 prefetch.2.8.2: 1) 'SRR896821' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Table 'SRR896821.sra' metadata: md5 ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:03:19 vdb-validate.2.8.2 info: Table 'SRR896821.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 3976219 spots for 01_reads/sra/SRR896821.sra
+Written 3976219 spots for 01_reads/sra/SRR896821.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896821 [1/1] ... done!
+Processing GSM1156955 [79/112] ... Done!
+
+Processing GSM1156956 [80/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR896822 [1/1] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:04:15 prefetch.2.8.2: 1) Downloading 'SRR896822'...
+2018-03-20T12:04:15 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:06:50 prefetch.2.8.2: 1) 'SRR896822' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Table 'SRR896822.sra' metadata: md5 ok
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Column 'SPOT_GROUP': checksums ok
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:06:50 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:06:51 vdb-validate.2.8.2 info: Table 'SRR896822.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 4467619 spots for 01_reads/sra/SRR896822.sra
+Written 4467619 spots for 01_reads/sra/SRR896822.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR896822 [1/1] ... done!
+Processing GSM1156956 [80/112] ... Done!
+
+Processing GSM1328501 [81/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169959 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:07:51 prefetch.2.8.2: 1) Downloading 'SRR1169959'...
+2018-03-20T12:07:51 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:12:14 prefetch.2.8.2: 1) 'SRR1169959' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:12:14 vdb-validate.2.8.2 info: Table 'SRR1169959.sra' metadata: md5 ok
+2018-03-20T12:12:14 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:12:15 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:12:15 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:12:15 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:12:15 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:12:15 vdb-validate.2.8.2 info: Table 'SRR1169959.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18149946 spots for 01_reads/sra/SRR1169959.sra
+Written 18149946 spots for 01_reads/sra/SRR1169959.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169959 [1/2] ... done!
+	Processing SRR1169960 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:14:37 prefetch.2.8.2: 1) Downloading 'SRR1169960'...
+2018-03-20T12:14:37 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:18:58 prefetch.2.8.2: 1) 'SRR1169960' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:18:58 vdb-validate.2.8.2 info: Table 'SRR1169960.sra' metadata: md5 ok
+2018-03-20T12:18:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:18:58 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:18:59 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:18:59 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:18:59 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:18:59 vdb-validate.2.8.2 info: Table 'SRR1169960.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 22093830 spots for 01_reads/sra/SRR1169960.sra
+Written 22093830 spots for 01_reads/sra/SRR1169960.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169960 [2/2] ... done!
+Processing GSM1328501 [81/112] ... Done!
+
+Processing GSM1328502 [82/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169961 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:21:54 prefetch.2.8.2: 1) Downloading 'SRR1169961'...
+2018-03-20T12:21:54 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:34:31 prefetch.2.8.2: 1) 'SRR1169961' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:34:31 vdb-validate.2.8.2 info: Table 'SRR1169961.sra' metadata: md5 ok
+2018-03-20T12:34:31 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:34:32 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:34:32 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:34:32 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:34:32 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:34:32 vdb-validate.2.8.2 info: Table 'SRR1169961.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 25133740 spots for 01_reads/sra/SRR1169961.sra
+Written 25133740 spots for 01_reads/sra/SRR1169961.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169961 [1/2] ... done!
+	Processing SRR1169962 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:37:46 prefetch.2.8.2: 1) Downloading 'SRR1169962'...
+2018-03-20T12:37:46 prefetch.2.8.2:  Downloading via https...
+2018-03-20T12:55:01 prefetch.2.8.2: 1) 'SRR1169962' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T12:55:01 vdb-validate.2.8.2 info: Table 'SRR1169962.sra' metadata: md5 ok
+2018-03-20T12:55:01 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T12:55:02 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T12:55:02 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T12:55:02 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T12:55:02 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T12:55:02 vdb-validate.2.8.2 info: Table 'SRR1169962.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 30760957 spots for 01_reads/sra/SRR1169962.sra
+Written 30760957 spots for 01_reads/sra/SRR1169962.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169962 [2/2] ... done!
+Processing GSM1328502 [82/112] ... Done!
+
+Processing GSM1328503 [83/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169963 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T12:59:01 prefetch.2.8.2: 1) Downloading 'SRR1169963'...
+2018-03-20T12:59:01 prefetch.2.8.2:  Downloading via https...
+2018-03-20T13:05:00 prefetch.2.8.2: 1) 'SRR1169963' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T13:05:00 vdb-validate.2.8.2 info: Table 'SRR1169963.sra' metadata: md5 ok
+2018-03-20T13:05:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T13:05:01 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T13:05:01 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T13:05:01 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T13:05:01 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T13:05:01 vdb-validate.2.8.2 info: Table 'SRR1169963.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 27127179 spots for 01_reads/sra/SRR1169963.sra
+Written 27127179 spots for 01_reads/sra/SRR1169963.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169963 [1/2] ... done!
+	Processing SRR1169964 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T13:08:31 prefetch.2.8.2: 1) Downloading 'SRR1169964'...
+2018-03-20T13:08:31 prefetch.2.8.2:  Downloading via https...
+2018-03-20T13:13:53 prefetch.2.8.2: 1) 'SRR1169964' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T13:13:53 vdb-validate.2.8.2 info: Table 'SRR1169964.sra' metadata: md5 ok
+2018-03-20T13:13:53 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T13:13:54 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T13:13:54 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T13:13:54 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T13:13:55 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T13:13:55 vdb-validate.2.8.2 info: Table 'SRR1169964.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 25005703 spots for 01_reads/sra/SRR1169964.sra
+Written 25005703 spots for 01_reads/sra/SRR1169964.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169964 [2/2] ... done!
+Processing GSM1328503 [83/112] ... Done!
+
+Processing GSM1328504 [84/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169965 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T13:17:10 prefetch.2.8.2: 1) Downloading 'SRR1169965'...
+2018-03-20T13:17:10 prefetch.2.8.2:  Downloading via https...
+2018-03-20T13:19:56 prefetch.2.8.2: 1) 'SRR1169965' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T13:19:56 vdb-validate.2.8.2 info: Table 'SRR1169965.sra' metadata: md5 ok
+2018-03-20T13:19:56 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T13:19:56 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T13:19:57 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T13:19:57 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T13:19:57 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T13:19:57 vdb-validate.2.8.2 info: Table 'SRR1169965.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 25135589 spots for 01_reads/sra/SRR1169965.sra
+Written 25135589 spots for 01_reads/sra/SRR1169965.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169965 [1/2] ... done!
+	Processing SRR1169966 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T13:23:09 prefetch.2.8.2: 1) Downloading 'SRR1169966'...
+2018-03-20T13:23:09 prefetch.2.8.2:  Downloading via https...
+2018-03-20T13:27:00 prefetch.2.8.2: 1) 'SRR1169966' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T13:27:00 vdb-validate.2.8.2 info: Table 'SRR1169966.sra' metadata: md5 ok
+2018-03-20T13:27:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T13:27:00 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T13:27:01 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T13:27:01 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T13:27:01 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T13:27:01 vdb-validate.2.8.2 info: Table 'SRR1169966.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 21168437 spots for 01_reads/sra/SRR1169966.sra
+Written 21168437 spots for 01_reads/sra/SRR1169966.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169966 [2/2] ... done!
+Processing GSM1328504 [84/112] ... Done!
+
+Processing GSM1328505 [85/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169967 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T13:29:49 prefetch.2.8.2: 1) Downloading 'SRR1169967'...
+2018-03-20T13:29:49 prefetch.2.8.2:  Downloading via https...
+2018-03-20T13:34:27 prefetch.2.8.2: 1) 'SRR1169967' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Table 'SRR1169967.sra' metadata: md5 ok
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T13:34:28 vdb-validate.2.8.2 info: Table 'SRR1169967.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 17637709 spots for 01_reads/sra/SRR1169967.sra
+Written 17637709 spots for 01_reads/sra/SRR1169967.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169967 [1/2] ... done!
+	Processing SRR1169968 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T13:36:46 prefetch.2.8.2: 1) Downloading 'SRR1169968'...
+2018-03-20T13:36:46 prefetch.2.8.2:  Downloading via https...
+2018-03-20T13:46:57 prefetch.2.8.2: 1) 'SRR1169968' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T13:46:57 vdb-validate.2.8.2 info: Table 'SRR1169968.sra' metadata: md5 ok
+2018-03-20T13:46:57 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T13:46:58 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T13:46:58 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T13:46:58 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T13:46:58 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T13:46:58 vdb-validate.2.8.2 info: Table 'SRR1169968.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 19133011 spots for 01_reads/sra/SRR1169968.sra
+Written 19133011 spots for 01_reads/sra/SRR1169968.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169968 [2/2] ... done!
+Processing GSM1328505 [85/112] ... Done!
+
+Processing GSM1328506 [86/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169969 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T13:49:34 prefetch.2.8.2: 1) Downloading 'SRR1169969'...
+2018-03-20T13:49:34 prefetch.2.8.2:  Downloading via https...
+2018-03-20T14:04:37 prefetch.2.8.2: 1) 'SRR1169969' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T14:04:37 vdb-validate.2.8.2 info: Table 'SRR1169969.sra' metadata: md5 ok
+2018-03-20T14:04:37 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T14:04:37 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T14:04:37 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T14:04:37 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T14:04:37 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T14:04:38 vdb-validate.2.8.2 info: Table 'SRR1169969.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18652721 spots for 01_reads/sra/SRR1169969.sra
+Written 18652721 spots for 01_reads/sra/SRR1169969.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169969 [1/2] ... done!
+	Processing SRR1169970 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T14:07:02 prefetch.2.8.2: 1) Downloading 'SRR1169970'...
+2018-03-20T14:07:02 prefetch.2.8.2:  Downloading via https...
+2018-03-20T14:20:21 prefetch.2.8.2: 1) 'SRR1169970' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T14:20:21 vdb-validate.2.8.2 info: Table 'SRR1169970.sra' metadata: md5 ok
+2018-03-20T14:20:21 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T14:20:22 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T14:20:22 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T14:20:22 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T14:20:22 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T14:20:22 vdb-validate.2.8.2 info: Table 'SRR1169970.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 23177635 spots for 01_reads/sra/SRR1169970.sra
+Written 23177635 spots for 01_reads/sra/SRR1169970.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169970 [2/2] ... done!
+Processing GSM1328506 [86/112] ... Done!
+
+Processing GSM1328507 [87/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169971 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T14:23:25 prefetch.2.8.2: 1) Downloading 'SRR1169971'...
+2018-03-20T14:23:25 prefetch.2.8.2:  Downloading via https...
+2018-03-20T14:43:26 prefetch.2.8.2: 1) 'SRR1169971' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T14:43:26 vdb-validate.2.8.2 info: Table 'SRR1169971.sra' metadata: md5 ok
+2018-03-20T14:43:26 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T14:43:26 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T14:43:26 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T14:43:27 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T14:43:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T14:43:27 vdb-validate.2.8.2 info: Table 'SRR1169971.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 21922787 spots for 01_reads/sra/SRR1169971.sra
+Written 21922787 spots for 01_reads/sra/SRR1169971.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169971 [1/2] ... done!
+	Processing SRR1169972 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T14:46:16 prefetch.2.8.2: 1) Downloading 'SRR1169972'...
+2018-03-20T14:46:16 prefetch.2.8.2:  Downloading via https...
+2018-03-20T15:01:01 prefetch.2.8.2: 1) 'SRR1169972' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T15:01:01 vdb-validate.2.8.2 info: Table 'SRR1169972.sra' metadata: md5 ok
+2018-03-20T15:01:01 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T15:01:01 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T15:01:02 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T15:01:02 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T15:01:02 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T15:01:02 vdb-validate.2.8.2 info: Table 'SRR1169972.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 20916581 spots for 01_reads/sra/SRR1169972.sra
+Written 20916581 spots for 01_reads/sra/SRR1169972.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169972 [2/2] ... done!
+Processing GSM1328507 [87/112] ... Done!
+
+Processing GSM1328508 [88/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169973 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T15:03:48 prefetch.2.8.2: 1) Downloading 'SRR1169973'...
+2018-03-20T15:03:48 prefetch.2.8.2:  Downloading via https...
+2018-03-20T15:43:04 prefetch.2.8.2: 1) 'SRR1169973' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T15:43:04 vdb-validate.2.8.2 info: Table 'SRR1169973.sra' metadata: md5 ok
+2018-03-20T15:43:04 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T15:43:04 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T15:43:04 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T15:43:05 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T15:43:05 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T15:43:05 vdb-validate.2.8.2 info: Table 'SRR1169973.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 20250892 spots for 01_reads/sra/SRR1169973.sra
+Written 20250892 spots for 01_reads/sra/SRR1169973.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169973 [1/2] ... done!
+	Processing SRR1169974 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T15:45:41 prefetch.2.8.2: 1) Downloading 'SRR1169974'...
+2018-03-20T15:45:41 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:01:21 prefetch.2.8.2: 1) 'SRR1169974' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:01:21 vdb-validate.2.8.2 info: Table 'SRR1169974.sra' metadata: md5 ok
+2018-03-20T16:01:21 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:01:22 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:01:22 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:01:22 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:01:22 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:01:22 vdb-validate.2.8.2 info: Table 'SRR1169974.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 25682201 spots for 01_reads/sra/SRR1169974.sra
+Written 25682201 spots for 01_reads/sra/SRR1169974.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169974 [2/2] ... done!
+Processing GSM1328508 [88/112] ... Done!
+
+Processing GSM1328509 [89/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169975 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:04:43 prefetch.2.8.2: 1) Downloading 'SRR1169975'...
+2018-03-20T16:04:43 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:05:34 prefetch.2.8.2: 1) 'SRR1169975' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:05:34 vdb-validate.2.8.2 info: Table 'SRR1169975.sra' metadata: md5 ok
+2018-03-20T16:05:34 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:05:34 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:05:35 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:05:35 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:05:35 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:05:35 vdb-validate.2.8.2 info: Table 'SRR1169975.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 13704247 spots for 01_reads/sra/SRR1169975.sra
+Written 13704247 spots for 01_reads/sra/SRR1169975.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169975 [1/2] ... done!
+	Processing SRR1169976 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:07:22 prefetch.2.8.2: 1) Downloading 'SRR1169976'...
+2018-03-20T16:07:22 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:08:18 prefetch.2.8.2: 1) 'SRR1169976' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:08:18 vdb-validate.2.8.2 info: Table 'SRR1169976.sra' metadata: md5 ok
+2018-03-20T16:08:18 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:08:19 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:08:19 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:08:19 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:08:19 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:08:19 vdb-validate.2.8.2 info: Table 'SRR1169976.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 17112058 spots for 01_reads/sra/SRR1169976.sra
+Written 17112058 spots for 01_reads/sra/SRR1169976.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169976 [2/2] ... done!
+Processing GSM1328509 [89/112] ... Done!
+
+Processing GSM1328510 [90/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169977 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:10:35 prefetch.2.8.2: 1) Downloading 'SRR1169977'...
+2018-03-20T16:10:35 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:11:58 prefetch.2.8.2: 1) 'SRR1169977' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:11:58 vdb-validate.2.8.2 info: Table 'SRR1169977.sra' metadata: md5 ok
+2018-03-20T16:11:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:11:59 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:11:59 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:11:59 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:11:59 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:11:59 vdb-validate.2.8.2 info: Table 'SRR1169977.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 29113262 spots for 01_reads/sra/SRR1169977.sra
+Written 29113262 spots for 01_reads/sra/SRR1169977.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169977 [1/2] ... done!
+	Processing SRR1169978 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:15:42 prefetch.2.8.2: 1) Downloading 'SRR1169978'...
+2018-03-20T16:15:42 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:17:01 prefetch.2.8.2: 1) 'SRR1169978' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:17:01 vdb-validate.2.8.2 info: Table 'SRR1169978.sra' metadata: md5 ok
+2018-03-20T16:17:01 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:17:02 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:17:02 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:17:02 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:17:02 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:17:02 vdb-validate.2.8.2 info: Table 'SRR1169978.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 26972381 spots for 01_reads/sra/SRR1169978.sra
+Written 26972381 spots for 01_reads/sra/SRR1169978.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169978 [2/2] ... done!
+Processing GSM1328510 [90/112] ... Done!
+
+Processing GSM1328511 [91/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169979 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:20:33 prefetch.2.8.2: 1) Downloading 'SRR1169979'...
+2018-03-20T16:20:33 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:21:36 prefetch.2.8.2: 1) 'SRR1169979' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:21:36 vdb-validate.2.8.2 info: Table 'SRR1169979.sra' metadata: md5 ok
+2018-03-20T16:21:36 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:21:37 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:21:37 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:21:37 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:21:37 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:21:37 vdb-validate.2.8.2 info: Table 'SRR1169979.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 20932115 spots for 01_reads/sra/SRR1169979.sra
+Written 20932115 spots for 01_reads/sra/SRR1169979.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169979 [1/2] ... done!
+	Processing SRR1169980 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:24:19 prefetch.2.8.2: 1) Downloading 'SRR1169980'...
+2018-03-20T16:24:19 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:25:08 prefetch.2.8.2: 1) 'SRR1169980' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:25:08 vdb-validate.2.8.2 info: Table 'SRR1169980.sra' metadata: md5 ok
+2018-03-20T16:25:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:25:08 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:25:09 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:25:09 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:25:09 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:25:09 vdb-validate.2.8.2 info: Table 'SRR1169980.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 16493842 spots for 01_reads/sra/SRR1169980.sra
+Written 16493842 spots for 01_reads/sra/SRR1169980.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169980 [2/2] ... done!
+Processing GSM1328511 [91/112] ... Done!
+
+Processing GSM1328512 [92/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169981 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:27:20 prefetch.2.8.2: 1) Downloading 'SRR1169981'...
+2018-03-20T16:27:20 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:28:08 prefetch.2.8.2: 1) 'SRR1169981' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:28:08 vdb-validate.2.8.2 info: Table 'SRR1169981.sra' metadata: md5 ok
+2018-03-20T16:28:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:28:09 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:28:09 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:28:09 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:28:09 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:28:09 vdb-validate.2.8.2 info: Table 'SRR1169981.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 16586094 spots for 01_reads/sra/SRR1169981.sra
+Written 16586094 spots for 01_reads/sra/SRR1169981.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169981 [1/2] ... done!
+	Processing SRR1169982 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:30:17 prefetch.2.8.2: 1) Downloading 'SRR1169982'...
+2018-03-20T16:30:17 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:31:00 prefetch.2.8.2: 1) 'SRR1169982' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Table 'SRR1169982.sra' metadata: md5 ok
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:31:00 vdb-validate.2.8.2 info: Table 'SRR1169982.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 14373508 spots for 01_reads/sra/SRR1169982.sra
+Written 14373508 spots for 01_reads/sra/SRR1169982.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169982 [2/2] ... done!
+Processing GSM1328512 [92/112] ... Done!
+
+Processing GSM1328513 [93/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169983 [1/3] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:32:58 prefetch.2.8.2: 1) Downloading 'SRR1169983'...
+2018-03-20T16:32:58 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:34:26 prefetch.2.8.2: 1) 'SRR1169983' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:34:26 vdb-validate.2.8.2 info: Table 'SRR1169983.sra' metadata: md5 ok
+2018-03-20T16:34:26 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:34:26 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:34:27 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:34:27 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:34:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:34:27 vdb-validate.2.8.2 info: Table 'SRR1169983.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 31977332 spots for 01_reads/sra/SRR1169983.sra
+Written 31977332 spots for 01_reads/sra/SRR1169983.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169983 [1/3] ... done!
+	Processing SRR1169984 [2/3] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:38:30 prefetch.2.8.2: 1) Downloading 'SRR1169984'...
+2018-03-20T16:38:30 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:38:58 prefetch.2.8.2: 1) 'SRR1169984' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Table 'SRR1169984.sra' metadata: md5 ok
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:38:58 vdb-validate.2.8.2 info: Table 'SRR1169984.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 8837169 spots for 01_reads/sra/SRR1169984.sra
+Written 8837169 spots for 01_reads/sra/SRR1169984.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169984 [2/3] ... done!
+	Processing SRR1169985 [3/3] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:40:08 prefetch.2.8.2: 1) Downloading 'SRR1169985'...
+2018-03-20T16:40:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:40:53 prefetch.2.8.2: 1) 'SRR1169985' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:40:53 vdb-validate.2.8.2 info: Table 'SRR1169985.sra' metadata: md5 ok
+2018-03-20T16:40:53 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:40:53 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:40:54 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:40:54 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:40:54 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:40:54 vdb-validate.2.8.2 info: Table 'SRR1169985.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 15243400 spots for 01_reads/sra/SRR1169985.sra
+Written 15243400 spots for 01_reads/sra/SRR1169985.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169985 [3/3] ... done!
+Processing GSM1328513 [93/112] ... Done!
+
+Processing GSM1328514 [94/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169986 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:42:55 prefetch.2.8.2: 1) Downloading 'SRR1169986'...
+2018-03-20T16:42:55 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:43:58 prefetch.2.8.2: 1) 'SRR1169986' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:43:58 vdb-validate.2.8.2 info: Table 'SRR1169986.sra' metadata: md5 ok
+2018-03-20T16:43:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:43:58 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:43:59 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:43:59 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:43:59 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:43:59 vdb-validate.2.8.2 info: Table 'SRR1169986.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 23638499 spots for 01_reads/sra/SRR1169986.sra
+Written 23638499 spots for 01_reads/sra/SRR1169986.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169986 [1/2] ... done!
+	Processing SRR1169987 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:47:01 prefetch.2.8.2: 1) Downloading 'SRR1169987'...
+2018-03-20T16:47:01 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:48:06 prefetch.2.8.2: 1) 'SRR1169987' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:48:06 vdb-validate.2.8.2 info: Table 'SRR1169987.sra' metadata: md5 ok
+2018-03-20T16:48:06 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:48:07 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:48:07 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:48:07 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:48:07 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:48:07 vdb-validate.2.8.2 info: Table 'SRR1169987.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 24042719 spots for 01_reads/sra/SRR1169987.sra
+Written 24042719 spots for 01_reads/sra/SRR1169987.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169987 [2/2] ... done!
+Processing GSM1328514 [94/112] ... Done!
+
+Processing GSM1328515 [95/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169988 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:51:14 prefetch.2.8.2: 1) Downloading 'SRR1169988'...
+2018-03-20T16:51:14 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:52:41 prefetch.2.8.2: 1) 'SRR1169988' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:52:41 vdb-validate.2.8.2 info: Table 'SRR1169988.sra' metadata: md5 ok
+2018-03-20T16:52:41 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:52:42 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:52:42 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:52:42 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:52:42 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:52:42 vdb-validate.2.8.2 info: Table 'SRR1169988.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 32531397 spots for 01_reads/sra/SRR1169988.sra
+Written 32531397 spots for 01_reads/sra/SRR1169988.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169988 [1/2] ... done!
+	Processing SRR1169989 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T16:56:49 prefetch.2.8.2: 1) Downloading 'SRR1169989'...
+2018-03-20T16:56:49 prefetch.2.8.2:  Downloading via https...
+2018-03-20T16:58:20 prefetch.2.8.2: 1) 'SRR1169989' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T16:58:20 vdb-validate.2.8.2 info: Table 'SRR1169989.sra' metadata: md5 ok
+2018-03-20T16:58:20 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T16:58:20 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T16:58:21 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T16:58:21 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T16:58:21 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T16:58:21 vdb-validate.2.8.2 info: Table 'SRR1169989.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 33135579 spots for 01_reads/sra/SRR1169989.sra
+Written 33135579 spots for 01_reads/sra/SRR1169989.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169989 [2/2] ... done!
+Processing GSM1328515 [95/112] ... Done!
+
+Processing GSM1328516 [96/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169990 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:02:33 prefetch.2.8.2: 1) Downloading 'SRR1169990'...
+2018-03-20T17:02:33 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:03:59 prefetch.2.8.2: 1) 'SRR1169990' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:03:59 vdb-validate.2.8.2 info: Table 'SRR1169990.sra' metadata: md5 ok
+2018-03-20T17:03:59 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:04:00 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:04:00 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:04:00 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:04:01 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:04:01 vdb-validate.2.8.2 info: Table 'SRR1169990.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 32854965 spots for 01_reads/sra/SRR1169990.sra
+Written 32854965 spots for 01_reads/sra/SRR1169990.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169990 [1/2] ... done!
+	Processing SRR1169991 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:08:07 prefetch.2.8.2: 1) Downloading 'SRR1169991'...
+2018-03-20T17:08:07 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:09:35 prefetch.2.8.2: 1) 'SRR1169991' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:09:35 vdb-validate.2.8.2 info: Table 'SRR1169991.sra' metadata: md5 ok
+2018-03-20T17:09:35 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:09:36 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:09:37 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:09:37 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:09:37 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:09:37 vdb-validate.2.8.2 info: Table 'SRR1169991.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 33758323 spots for 01_reads/sra/SRR1169991.sra
+Written 33758323 spots for 01_reads/sra/SRR1169991.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169991 [2/2] ... done!
+Processing GSM1328516 [96/112] ... Done!
+
+Processing GSM1328517 [97/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169992 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:13:54 prefetch.2.8.2: 1) Downloading 'SRR1169992'...
+2018-03-20T17:13:54 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:14:34 prefetch.2.8.2: 1) 'SRR1169992' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:14:34 vdb-validate.2.8.2 info: Table 'SRR1169992.sra' metadata: md5 ok
+2018-03-20T17:14:34 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:14:34 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:14:35 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:14:35 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:14:35 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:14:35 vdb-validate.2.8.2 info: Table 'SRR1169992.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 13535673 spots for 01_reads/sra/SRR1169992.sra
+Written 13535673 spots for 01_reads/sra/SRR1169992.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169992 [1/2] ... done!
+	Processing SRR1169993 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:16:21 prefetch.2.8.2: 1) Downloading 'SRR1169993'...
+2018-03-20T17:16:21 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:17:08 prefetch.2.8.2: 1) 'SRR1169993' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Table 'SRR1169993.sra' metadata: md5 ok
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:17:08 vdb-validate.2.8.2 info: Table 'SRR1169993.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 16429967 spots for 01_reads/sra/SRR1169993.sra
+Written 16429967 spots for 01_reads/sra/SRR1169993.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169993 [2/2] ... done!
+Processing GSM1328517 [97/112] ... Done!
+
+Processing GSM1328518 [98/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169994 [1/3] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:19:18 prefetch.2.8.2: 1) Downloading 'SRR1169994'...
+2018-03-20T17:19:18 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:20:11 prefetch.2.8.2: 1) 'SRR1169994' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:20:11 vdb-validate.2.8.2 info: Table 'SRR1169994.sra' metadata: md5 ok
+2018-03-20T17:20:11 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:20:12 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:20:12 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:20:12 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:20:12 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:20:12 vdb-validate.2.8.2 info: Table 'SRR1169994.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 19768363 spots for 01_reads/sra/SRR1169994.sra
+Written 19768363 spots for 01_reads/sra/SRR1169994.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169994 [1/3] ... done!
+	Processing SRR1169995 [2/3] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:22:42 prefetch.2.8.2: 1) Downloading 'SRR1169995'...
+2018-03-20T17:22:42 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:23:26 prefetch.2.8.2: 1) 'SRR1169995' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:23:26 vdb-validate.2.8.2 info: Table 'SRR1169995.sra' metadata: md5 ok
+2018-03-20T17:23:26 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:23:27 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:23:27 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:23:27 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:23:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:23:27 vdb-validate.2.8.2 info: Table 'SRR1169995.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 15677866 spots for 01_reads/sra/SRR1169995.sra
+Written 15677866 spots for 01_reads/sra/SRR1169995.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169995 [2/3] ... done!
+	Processing SRR1169996 [3/3] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:25:28 prefetch.2.8.2: 1) Downloading 'SRR1169996'...
+2018-03-20T17:25:28 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:26:13 prefetch.2.8.2: 1) 'SRR1169996' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:26:13 vdb-validate.2.8.2 info: Table 'SRR1169996.sra' metadata: md5 ok
+2018-03-20T17:26:13 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:26:14 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:26:14 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:26:14 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:26:14 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:26:14 vdb-validate.2.8.2 info: Table 'SRR1169996.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 15877522 spots for 01_reads/sra/SRR1169996.sra
+Written 15877522 spots for 01_reads/sra/SRR1169996.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169996 [3/3] ... done!
+Processing GSM1328518 [98/112] ... Done!
+
+Processing GSM1328519 [99/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169997 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:28:20 prefetch.2.8.2: 1) Downloading 'SRR1169997'...
+2018-03-20T17:28:20 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:29:34 prefetch.2.8.2: 1) 'SRR1169997' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:29:34 vdb-validate.2.8.2 info: Table 'SRR1169997.sra' metadata: md5 ok
+2018-03-20T17:29:34 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:29:35 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:29:35 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:29:35 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:29:35 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:29:35 vdb-validate.2.8.2 info: Table 'SRR1169997.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 28412303 spots for 01_reads/sra/SRR1169997.sra
+Written 28412303 spots for 01_reads/sra/SRR1169997.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169997 [1/2] ... done!
+	Processing SRR1169998 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:33:09 prefetch.2.8.2: 1) Downloading 'SRR1169998'...
+2018-03-20T17:33:09 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:34:25 prefetch.2.8.2: 1) 'SRR1169998' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:34:25 vdb-validate.2.8.2 info: Table 'SRR1169998.sra' metadata: md5 ok
+2018-03-20T17:34:25 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:34:26 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:34:26 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:34:26 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:34:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:34:27 vdb-validate.2.8.2 info: Table 'SRR1169998.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 29128736 spots for 01_reads/sra/SRR1169998.sra
+Written 29128736 spots for 01_reads/sra/SRR1169998.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169998 [2/2] ... done!
+Processing GSM1328519 [99/112] ... Done!
+
+Processing GSM1328520 [100/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1169999 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:38:09 prefetch.2.8.2: 1) Downloading 'SRR1169999'...
+2018-03-20T17:38:09 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:39:01 prefetch.2.8.2: 1) 'SRR1169999' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:39:01 vdb-validate.2.8.2 info: Table 'SRR1169999.sra' metadata: md5 ok
+2018-03-20T17:39:01 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:39:01 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:39:02 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:39:02 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:39:02 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:39:02 vdb-validate.2.8.2 info: Table 'SRR1169999.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18629359 spots for 01_reads/sra/SRR1169999.sra
+Written 18629359 spots for 01_reads/sra/SRR1169999.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1169999 [1/2] ... done!
+	Processing SRR1170000 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:41:26 prefetch.2.8.2: 1) Downloading 'SRR1170000'...
+2018-03-20T17:41:26 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:42:09 prefetch.2.8.2: 1) 'SRR1170000' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:42:09 vdb-validate.2.8.2 info: Table 'SRR1170000.sra' metadata: md5 ok
+2018-03-20T17:42:09 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:42:09 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:42:09 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:42:09 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:42:09 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:42:10 vdb-validate.2.8.2 info: Table 'SRR1170000.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 14621004 spots for 01_reads/sra/SRR1170000.sra
+Written 14621004 spots for 01_reads/sra/SRR1170000.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170000 [2/2] ... done!
+Processing GSM1328520 [100/112] ... Done!
+
+Processing GSM1328521 [101/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170001 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:44:06 prefetch.2.8.2: 1) Downloading 'SRR1170001'...
+2018-03-20T17:44:06 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:45:12 prefetch.2.8.2: 1) 'SRR1170001' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:45:12 vdb-validate.2.8.2 info: Table 'SRR1170001.sra' metadata: md5 ok
+2018-03-20T17:45:12 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:45:13 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:45:13 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:45:13 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:45:13 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:45:13 vdb-validate.2.8.2 info: Table 'SRR1170001.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 22935373 spots for 01_reads/sra/SRR1170001.sra
+Written 22935373 spots for 01_reads/sra/SRR1170001.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170001 [1/2] ... done!
+	Processing SRR1170002 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:48:08 prefetch.2.8.2: 1) Downloading 'SRR1170002'...
+2018-03-20T17:48:08 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:49:09 prefetch.2.8.2: 1) 'SRR1170002' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:49:10 vdb-validate.2.8.2 info: Table 'SRR1170002.sra' metadata: md5 ok
+2018-03-20T17:49:10 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:49:10 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:49:10 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:49:10 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:49:10 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:49:11 vdb-validate.2.8.2 info: Table 'SRR1170002.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 23017667 spots for 01_reads/sra/SRR1170002.sra
+Written 23017667 spots for 01_reads/sra/SRR1170002.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170002 [2/2] ... done!
+Processing GSM1328521 [101/112] ... Done!
+
+Processing GSM1328522 [102/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170003 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:52:10 prefetch.2.8.2: 1) Downloading 'SRR1170003'...
+2018-03-20T17:52:10 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:53:26 prefetch.2.8.2: 1) 'SRR1170003' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:53:26 vdb-validate.2.8.2 info: Table 'SRR1170003.sra' metadata: md5 ok
+2018-03-20T17:53:26 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:53:27 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:53:27 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:53:27 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:53:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:53:27 vdb-validate.2.8.2 info: Table 'SRR1170003.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 29352365 spots for 01_reads/sra/SRR1170003.sra
+Written 29352365 spots for 01_reads/sra/SRR1170003.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170003 [1/2] ... done!
+	Processing SRR1170004 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T17:57:09 prefetch.2.8.2: 1) Downloading 'SRR1170004'...
+2018-03-20T17:57:09 prefetch.2.8.2:  Downloading via https...
+2018-03-20T17:58:21 prefetch.2.8.2: 1) 'SRR1170004' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T17:58:21 vdb-validate.2.8.2 info: Table 'SRR1170004.sra' metadata: md5 ok
+2018-03-20T17:58:21 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T17:58:22 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T17:58:22 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T17:58:22 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T17:58:22 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T17:58:22 vdb-validate.2.8.2 info: Table 'SRR1170004.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 26678314 spots for 01_reads/sra/SRR1170004.sra
+Written 26678314 spots for 01_reads/sra/SRR1170004.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170004 [2/2] ... done!
+Processing GSM1328522 [102/112] ... Done!
+
+Processing GSM1328523 [103/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170005 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:01:53 prefetch.2.8.2: 1) Downloading 'SRR1170005'...
+2018-03-20T18:01:53 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:02:46 prefetch.2.8.2: 1) 'SRR1170005' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:02:46 vdb-validate.2.8.2 info: Table 'SRR1170005.sra' metadata: md5 ok
+2018-03-20T18:02:46 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:02:46 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:02:46 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:02:46 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:02:46 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:02:47 vdb-validate.2.8.2 info: Table 'SRR1170005.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18854099 spots for 01_reads/sra/SRR1170005.sra
+Written 18854099 spots for 01_reads/sra/SRR1170005.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170005 [1/2] ... done!
+	Processing SRR1170006 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:05:12 prefetch.2.8.2: 1) Downloading 'SRR1170006'...
+2018-03-20T18:05:12 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:06:00 prefetch.2.8.2: 1) 'SRR1170006' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:06:00 vdb-validate.2.8.2 info: Table 'SRR1170006.sra' metadata: md5 ok
+2018-03-20T18:06:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:06:00 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:06:01 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:06:01 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:06:01 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:06:01 vdb-validate.2.8.2 info: Table 'SRR1170006.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 16478850 spots for 01_reads/sra/SRR1170006.sra
+Written 16478850 spots for 01_reads/sra/SRR1170006.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170006 [2/2] ... done!
+Processing GSM1328523 [103/112] ... Done!
+
+Processing GSM1328524 [104/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170007 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:08:10 prefetch.2.8.2: 1) Downloading 'SRR1170007'...
+2018-03-20T18:08:10 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:08:59 prefetch.2.8.2: 1) 'SRR1170007' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Table 'SRR1170007.sra' metadata: md5 ok
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:09:00 vdb-validate.2.8.2 info: Table 'SRR1170007.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 17645971 spots for 01_reads/sra/SRR1170007.sra
+Written 17645971 spots for 01_reads/sra/SRR1170007.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170007 [1/2] ... done!
+	Processing SRR1170008 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:11:16 prefetch.2.8.2: 1) Downloading 'SRR1170008'...
+2018-03-20T18:11:16 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:12:05 prefetch.2.8.2: 1) 'SRR1170008' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Table 'SRR1170008.sra' metadata: md5 ok
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:12:05 vdb-validate.2.8.2 info: Table 'SRR1170008.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18111690 spots for 01_reads/sra/SRR1170008.sra
+Written 18111690 spots for 01_reads/sra/SRR1170008.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170008 [2/2] ... done!
+Processing GSM1328524 [104/112] ... Done!
+
+Processing GSM1328525 [105/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170009 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:14:28 prefetch.2.8.2: 1) Downloading 'SRR1170009'...
+2018-03-20T18:14:28 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:15:30 prefetch.2.8.2: 1) 'SRR1170009' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:15:30 vdb-validate.2.8.2 info: Table 'SRR1170009.sra' metadata: md5 ok
+2018-03-20T18:15:30 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:15:31 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:15:31 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:15:31 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:15:31 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:15:31 vdb-validate.2.8.2 info: Table 'SRR1170009.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 23422030 spots for 01_reads/sra/SRR1170009.sra
+Written 23422030 spots for 01_reads/sra/SRR1170009.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170009 [1/2] ... done!
+	Processing SRR1170010 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:18:29 prefetch.2.8.2: 1) Downloading 'SRR1170010'...
+2018-03-20T18:18:29 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:19:31 prefetch.2.8.2: 1) 'SRR1170010' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:19:31 vdb-validate.2.8.2 info: Table 'SRR1170010.sra' metadata: md5 ok
+2018-03-20T18:19:31 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:19:32 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:19:32 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:19:32 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:19:32 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:19:32 vdb-validate.2.8.2 info: Table 'SRR1170010.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 23189927 spots for 01_reads/sra/SRR1170010.sra
+Written 23189927 spots for 01_reads/sra/SRR1170010.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170010 [2/2] ... done!
+Processing GSM1328525 [105/112] ... Done!
+
+Processing GSM1328526 [106/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170011 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:22:33 prefetch.2.8.2: 1) Downloading 'SRR1170011'...
+2018-03-20T18:22:33 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:23:23 prefetch.2.8.2: 1) 'SRR1170011' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:23:23 vdb-validate.2.8.2 info: Table 'SRR1170011.sra' metadata: md5 ok
+2018-03-20T18:23:23 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:23:24 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:23:24 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:23:24 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:23:24 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:23:24 vdb-validate.2.8.2 info: Table 'SRR1170011.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 17980599 spots for 01_reads/sra/SRR1170011.sra
+Written 17980599 spots for 01_reads/sra/SRR1170011.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170011 [1/2] ... done!
+	Processing SRR1170012 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:25:42 prefetch.2.8.2: 1) Downloading 'SRR1170012'...
+2018-03-20T18:25:42 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:26:26 prefetch.2.8.2: 1) 'SRR1170012' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Table 'SRR1170012.sra' metadata: md5 ok
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:26:26 vdb-validate.2.8.2 info: Table 'SRR1170012.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 15670305 spots for 01_reads/sra/SRR1170012.sra
+Written 15670305 spots for 01_reads/sra/SRR1170012.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170012 [2/2] ... done!
+Processing GSM1328526 [106/112] ... Done!
+
+Processing GSM1328527 [107/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170013 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:28:29 prefetch.2.8.2: 1) Downloading 'SRR1170013'...
+2018-03-20T18:28:29 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:29:24 prefetch.2.8.2: 1) 'SRR1170013' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:29:24 vdb-validate.2.8.2 info: Table 'SRR1170013.sra' metadata: md5 ok
+2018-03-20T18:29:24 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:29:24 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:29:25 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:29:25 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:29:25 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:29:25 vdb-validate.2.8.2 info: Table 'SRR1170013.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18659458 spots for 01_reads/sra/SRR1170013.sra
+Written 18659458 spots for 01_reads/sra/SRR1170013.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170013 [1/2] ... done!
+	Processing SRR1170014 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:31:48 prefetch.2.8.2: 1) Downloading 'SRR1170014'...
+2018-03-20T18:31:48 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:32:47 prefetch.2.8.2: 1) 'SRR1170014' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:32:47 vdb-validate.2.8.2 info: Table 'SRR1170014.sra' metadata: md5 ok
+2018-03-20T18:32:47 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:32:48 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:32:48 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:32:48 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:32:48 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:32:48 vdb-validate.2.8.2 info: Table 'SRR1170014.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 21238358 spots for 01_reads/sra/SRR1170014.sra
+Written 21238358 spots for 01_reads/sra/SRR1170014.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170014 [2/2] ... done!
+Processing GSM1328527 [107/112] ... Done!
+
+Processing GSM1328528 [108/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170015 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:35:35 prefetch.2.8.2: 1) Downloading 'SRR1170015'...
+2018-03-20T18:35:35 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:36:27 prefetch.2.8.2: 1) 'SRR1170015' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Table 'SRR1170015.sra' metadata: md5 ok
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:36:27 vdb-validate.2.8.2 info: Table 'SRR1170015.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18302032 spots for 01_reads/sra/SRR1170015.sra
+Written 18302032 spots for 01_reads/sra/SRR1170015.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170015 [1/2] ... done!
+	Processing SRR1170016 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:38:48 prefetch.2.8.2: 1) Downloading 'SRR1170016'...
+2018-03-20T18:38:48 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:39:36 prefetch.2.8.2: 1) 'SRR1170016' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Table 'SRR1170016.sra' metadata: md5 ok
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:39:36 vdb-validate.2.8.2 info: Table 'SRR1170016.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 16016140 spots for 01_reads/sra/SRR1170016.sra
+Written 16016140 spots for 01_reads/sra/SRR1170016.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170016 [2/2] ... done!
+Processing GSM1328528 [108/112] ... Done!
+
+Processing GSM1328529 [109/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170017 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:41:43 prefetch.2.8.2: 1) Downloading 'SRR1170017'...
+2018-03-20T18:41:43 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:42:47 prefetch.2.8.2: 1) 'SRR1170017' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:42:47 vdb-validate.2.8.2 info: Table 'SRR1170017.sra' metadata: md5 ok
+2018-03-20T18:42:47 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:42:48 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:42:48 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:42:48 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:42:48 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:42:48 vdb-validate.2.8.2 info: Table 'SRR1170017.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 23105542 spots for 01_reads/sra/SRR1170017.sra
+Written 23105542 spots for 01_reads/sra/SRR1170017.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170017 [1/2] ... done!
+	Processing SRR1170018 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:45:52 prefetch.2.8.2: 1) Downloading 'SRR1170018'...
+2018-03-20T18:45:52 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:46:52 prefetch.2.8.2: 1) 'SRR1170018' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:46:52 vdb-validate.2.8.2 info: Table 'SRR1170018.sra' metadata: md5 ok
+2018-03-20T18:46:52 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:46:53 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:46:53 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:46:53 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:46:53 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:46:53 vdb-validate.2.8.2 info: Table 'SRR1170018.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 21943319 spots for 01_reads/sra/SRR1170018.sra
+Written 21943319 spots for 01_reads/sra/SRR1170018.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170018 [2/2] ... done!
+Processing GSM1328529 [109/112] ... Done!
+
+Processing GSM1328530 [110/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170019 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:49:45 prefetch.2.8.2: 1) Downloading 'SRR1170019'...
+2018-03-20T18:49:45 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:50:33 prefetch.2.8.2: 1) 'SRR1170019' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Table 'SRR1170019.sra' metadata: md5 ok
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:50:33 vdb-validate.2.8.2 info: Table 'SRR1170019.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 17130050 spots for 01_reads/sra/SRR1170019.sra
+Written 17130050 spots for 01_reads/sra/SRR1170019.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170019 [1/2] ... done!
+	Processing SRR1170020 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:52:45 prefetch.2.8.2: 1) Downloading 'SRR1170020'...
+2018-03-20T18:52:45 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:53:40 prefetch.2.8.2: 1) 'SRR1170020' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:53:40 vdb-validate.2.8.2 info: Table 'SRR1170020.sra' metadata: md5 ok
+2018-03-20T18:53:40 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:53:41 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:53:41 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:53:41 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:53:41 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:53:41 vdb-validate.2.8.2 info: Table 'SRR1170020.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 19717411 spots for 01_reads/sra/SRR1170020.sra
+Written 19717411 spots for 01_reads/sra/SRR1170020.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170020 [2/2] ... done!
+Processing GSM1328530 [110/112] ... Done!
+
+Processing GSM1328531 [111/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170021 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:56:14 prefetch.2.8.2: 1) Downloading 'SRR1170021'...
+2018-03-20T18:56:14 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:56:58 prefetch.2.8.2: 1) 'SRR1170021' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:56:58 vdb-validate.2.8.2 info: Table 'SRR1170021.sra' metadata: md5 ok
+2018-03-20T18:56:58 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:56:59 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:56:59 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:56:59 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:56:59 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:56:59 vdb-validate.2.8.2 info: Table 'SRR1170021.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 15233374 spots for 01_reads/sra/SRR1170021.sra
+Written 15233374 spots for 01_reads/sra/SRR1170021.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170021 [1/2] ... done!
+	Processing SRR1170022 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T18:58:56 prefetch.2.8.2: 1) Downloading 'SRR1170022'...
+2018-03-20T18:58:56 prefetch.2.8.2:  Downloading via https...
+2018-03-20T18:59:50 prefetch.2.8.2: 1) 'SRR1170022' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T18:59:50 vdb-validate.2.8.2 info: Table 'SRR1170022.sra' metadata: md5 ok
+2018-03-20T18:59:50 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T18:59:51 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T18:59:51 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T18:59:51 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T18:59:51 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T18:59:51 vdb-validate.2.8.2 info: Table 'SRR1170022.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 18959601 spots for 01_reads/sra/SRR1170022.sra
+Written 18959601 spots for 01_reads/sra/SRR1170022.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170022 [2/2] ... done!
+Processing GSM1328531 [111/112] ... Done!
+
+Processing GSM1328532 [112/112] ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ...
+	[1/4]: Get SRR-ID(s) from GSM-ID ... Done!
+	Processing SRR1170023 [1/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T19:02:21 prefetch.2.8.2: 1) Downloading 'SRR1170023'...
+2018-03-20T19:02:21 prefetch.2.8.2:  Downloading via https...
+2018-03-20T19:03:20 prefetch.2.8.2: 1) 'SRR1170023' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T19:03:20 vdb-validate.2.8.2 info: Table 'SRR1170023.sra' metadata: md5 ok
+2018-03-20T19:03:20 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T19:03:21 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T19:03:21 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T19:03:21 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T19:03:21 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T19:03:21 vdb-validate.2.8.2 info: Table 'SRR1170023.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 21244397 spots for 01_reads/sra/SRR1170023.sra
+Written 21244397 spots for 01_reads/sra/SRR1170023.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170023 [1/2] ... done!
+	Processing SRR1170024 [2/2] ...
+		[2/4]: Retrieve SRA from NCBI ...
+
+2018-03-20T19:06:03 prefetch.2.8.2: 1) Downloading 'SRR1170024'...
+2018-03-20T19:06:03 prefetch.2.8.2:  Downloading via https...
+2018-03-20T19:06:55 prefetch.2.8.2: 1) 'SRR1170024' was downloaded successfully
+		[2/4]: Retrieve SRA from NCBI ... Done!
+		[3/4]: Validate SRA file ...
+2018-03-20T19:06:55 vdb-validate.2.8.2 info: Table 'SRR1170024.sra' metadata: md5 ok
+2018-03-20T19:06:55 vdb-validate.2.8.2 info: Column 'ALTREAD': checksums ok
+2018-03-20T19:06:55 vdb-validate.2.8.2 info: Column 'QUALITY': checksums ok
+2018-03-20T19:06:56 vdb-validate.2.8.2 info: Column 'READ': checksums ok
+2018-03-20T19:06:56 vdb-validate.2.8.2 info: Column 'X': checksums ok
+2018-03-20T19:06:56 vdb-validate.2.8.2 info: Column 'Y': checksums ok
+2018-03-20T19:06:56 vdb-validate.2.8.2 info: Table 'SRR1170024.sra' is consistent
+		[3/4]: Validate SRA file ... Done!
+		[4/4]: Convert SRA to FASTQ ...
+Read 19081941 spots for 01_reads/sra/SRR1170024.sra
+Written 19081941 spots for 01_reads/sra/SRR1170024.sra
+		[4/4]: Convert SRA to FASTQ ... Done!
+	Processing SRR1170024 [2/2] ... done!
+Processing GSM1328532 [112/112] ... Done!
+
