@@ -1,0 +1,481 @@
+mkdir: cannot create directory ‘01_reads/fastq_clean’: File exists
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156877_1.fastq 01_reads/fastq_merged/GSM1156877_2.fastq 01_reads/fastq_clean/GSM1156877_1.fastq 01_reads/fastq_unpaired/GSM1156877_1.fastq 01_reads/fastq_clean/GSM1156877_2.fastq 01_reads/fastq_unpaired/GSM1156877_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6814407 Both Surviving: 6491339 (95.26%) Forward Only Surviving: 225406 (3.31%) Reverse Only Surviving: 72608 (1.07%) Dropped: 25054 (0.37%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156878_1.fastq 01_reads/fastq_merged/GSM1156878_2.fastq 01_reads/fastq_clean/GSM1156878_1.fastq 01_reads/fastq_unpaired/GSM1156878_1.fastq 01_reads/fastq_clean/GSM1156878_2.fastq 01_reads/fastq_unpaired/GSM1156878_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7411221 Both Surviving: 7141893 (96.37%) Forward Only Surviving: 185128 (2.50%) Reverse Only Surviving: 61533 (0.83%) Dropped: 22667 (0.31%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156879_1.fastq 01_reads/fastq_merged/GSM1156879_2.fastq 01_reads/fastq_clean/GSM1156879_1.fastq 01_reads/fastq_unpaired/GSM1156879_1.fastq 01_reads/fastq_clean/GSM1156879_2.fastq 01_reads/fastq_unpaired/GSM1156879_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6967043 Both Surviving: 6641192 (95.32%) Forward Only Surviving: 224270 (3.22%) Reverse Only Surviving: 75915 (1.09%) Dropped: 25666 (0.37%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156880_1.fastq 01_reads/fastq_merged/GSM1156880_2.fastq 01_reads/fastq_clean/GSM1156880_1.fastq 01_reads/fastq_unpaired/GSM1156880_1.fastq 01_reads/fastq_clean/GSM1156880_2.fastq 01_reads/fastq_unpaired/GSM1156880_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7356815 Both Surviving: 7093921 (96.43%) Forward Only Surviving: 180753 (2.46%) Reverse Only Surviving: 59724 (0.81%) Dropped: 22417 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156881_1.fastq 01_reads/fastq_merged/GSM1156881_2.fastq 01_reads/fastq_clean/GSM1156881_1.fastq 01_reads/fastq_unpaired/GSM1156881_1.fastq 01_reads/fastq_clean/GSM1156881_2.fastq 01_reads/fastq_unpaired/GSM1156881_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6966862 Both Surviving: 6638386 (95.29%) Forward Only Surviving: 229496 (3.29%) Reverse Only Surviving: 72544 (1.04%) Dropped: 26436 (0.38%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156882_1.fastq 01_reads/fastq_merged/GSM1156882_2.fastq 01_reads/fastq_clean/GSM1156882_1.fastq 01_reads/fastq_unpaired/GSM1156882_1.fastq 01_reads/fastq_clean/GSM1156882_2.fastq 01_reads/fastq_unpaired/GSM1156882_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7394653 Both Surviving: 7133753 (96.47%) Forward Only Surviving: 177293 (2.40%) Reverse Only Surviving: 60721 (0.82%) Dropped: 22886 (0.31%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156883_1.fastq 01_reads/fastq_merged/GSM1156883_2.fastq 01_reads/fastq_clean/GSM1156883_1.fastq 01_reads/fastq_unpaired/GSM1156883_1.fastq 01_reads/fastq_clean/GSM1156883_2.fastq 01_reads/fastq_unpaired/GSM1156883_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6989906 Both Surviving: 6662433 (95.32%) Forward Only Surviving: 229816 (3.29%) Reverse Only Surviving: 70986 (1.02%) Dropped: 26671 (0.38%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156884_1.fastq 01_reads/fastq_merged/GSM1156884_2.fastq 01_reads/fastq_clean/GSM1156884_1.fastq 01_reads/fastq_unpaired/GSM1156884_1.fastq 01_reads/fastq_clean/GSM1156884_2.fastq 01_reads/fastq_unpaired/GSM1156884_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7303636 Both Surviving: 7049111 (96.52%) Forward Only Surviving: 171259 (2.34%) Reverse Only Surviving: 60993 (0.84%) Dropped: 22273 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156885_1.fastq 01_reads/fastq_merged/GSM1156885_2.fastq 01_reads/fastq_clean/GSM1156885_1.fastq 01_reads/fastq_unpaired/GSM1156885_1.fastq 01_reads/fastq_clean/GSM1156885_2.fastq 01_reads/fastq_unpaired/GSM1156885_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6868675 Both Surviving: 6545352 (95.29%) Forward Only Surviving: 230137 (3.35%) Reverse Only Surviving: 67922 (0.99%) Dropped: 25264 (0.37%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156886_1.fastq 01_reads/fastq_merged/GSM1156886_2.fastq 01_reads/fastq_clean/GSM1156886_1.fastq 01_reads/fastq_unpaired/GSM1156886_1.fastq 01_reads/fastq_clean/GSM1156886_2.fastq 01_reads/fastq_unpaired/GSM1156886_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7352275 Both Surviving: 7096634 (96.52%) Forward Only Surviving: 173723 (2.36%) Reverse Only Surviving: 59620 (0.81%) Dropped: 22298 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156887_1.fastq 01_reads/fastq_merged/GSM1156887_2.fastq 01_reads/fastq_clean/GSM1156887_1.fastq 01_reads/fastq_unpaired/GSM1156887_1.fastq 01_reads/fastq_clean/GSM1156887_2.fastq 01_reads/fastq_unpaired/GSM1156887_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6850503 Both Surviving: 6519528 (95.17%) Forward Only Surviving: 235281 (3.43%) Reverse Only Surviving: 69600 (1.02%) Dropped: 26094 (0.38%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156888_1.fastq 01_reads/fastq_merged/GSM1156888_2.fastq 01_reads/fastq_clean/GSM1156888_1.fastq 01_reads/fastq_unpaired/GSM1156888_1.fastq 01_reads/fastq_clean/GSM1156888_2.fastq 01_reads/fastq_unpaired/GSM1156888_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7297477 Both Surviving: 7043889 (96.52%) Forward Only Surviving: 169897 (2.33%) Reverse Only Surviving: 61189 (0.84%) Dropped: 22502 (0.31%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156889_1.fastq 01_reads/fastq_merged/GSM1156889_2.fastq 01_reads/fastq_clean/GSM1156889_1.fastq 01_reads/fastq_unpaired/GSM1156889_1.fastq 01_reads/fastq_clean/GSM1156889_2.fastq 01_reads/fastq_unpaired/GSM1156889_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6830041 Both Surviving: 6511629 (95.34%) Forward Only Surviving: 223867 (3.28%) Reverse Only Surviving: 69031 (1.01%) Dropped: 25514 (0.37%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156890_1.fastq 01_reads/fastq_merged/GSM1156890_2.fastq 01_reads/fastq_clean/GSM1156890_1.fastq 01_reads/fastq_unpaired/GSM1156890_1.fastq 01_reads/fastq_clean/GSM1156890_2.fastq 01_reads/fastq_unpaired/GSM1156890_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7444197 Both Surviving: 7193998 (96.64%) Forward Only Surviving: 164024 (2.20%) Reverse Only Surviving: 63429 (0.85%) Dropped: 22746 (0.31%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156891_1.fastq 01_reads/fastq_merged/GSM1156891_2.fastq 01_reads/fastq_clean/GSM1156891_1.fastq 01_reads/fastq_unpaired/GSM1156891_1.fastq 01_reads/fastq_clean/GSM1156891_2.fastq 01_reads/fastq_unpaired/GSM1156891_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6927363 Both Surviving: 6609567 (95.41%) Forward Only Surviving: 221538 (3.20%) Reverse Only Surviving: 70200 (1.01%) Dropped: 26058 (0.38%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156892_1.fastq 01_reads/fastq_merged/GSM1156892_2.fastq 01_reads/fastq_clean/GSM1156892_1.fastq 01_reads/fastq_unpaired/GSM1156892_1.fastq 01_reads/fastq_clean/GSM1156892_2.fastq 01_reads/fastq_unpaired/GSM1156892_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7394500 Both Surviving: 7149757 (96.69%) Forward Only Surviving: 159859 (2.16%) Reverse Only Surviving: 63154 (0.85%) Dropped: 21730 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156893_1.fastq 01_reads/fastq_merged/GSM1156893_2.fastq 01_reads/fastq_clean/GSM1156893_1.fastq 01_reads/fastq_unpaired/GSM1156893_1.fastq 01_reads/fastq_clean/GSM1156893_2.fastq 01_reads/fastq_unpaired/GSM1156893_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6651723 Both Surviving: 6352166 (95.50%) Forward Only Surviving: 207085 (3.11%) Reverse Only Surviving: 69738 (1.05%) Dropped: 22734 (0.34%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156894_1.fastq 01_reads/fastq_merged/GSM1156894_2.fastq 01_reads/fastq_clean/GSM1156894_1.fastq 01_reads/fastq_unpaired/GSM1156894_1.fastq 01_reads/fastq_clean/GSM1156894_2.fastq 01_reads/fastq_unpaired/GSM1156894_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7287569 Both Surviving: 7036698 (96.56%) Forward Only Surviving: 171211 (2.35%) Reverse Only Surviving: 59485 (0.82%) Dropped: 20175 (0.28%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156895_1.fastq 01_reads/fastq_merged/GSM1156895_2.fastq 01_reads/fastq_clean/GSM1156895_1.fastq 01_reads/fastq_unpaired/GSM1156895_1.fastq 01_reads/fastq_clean/GSM1156895_2.fastq 01_reads/fastq_unpaired/GSM1156895_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6894494 Both Surviving: 6586360 (95.53%) Forward Only Surviving: 209209 (3.03%) Reverse Only Surviving: 75276 (1.09%) Dropped: 23649 (0.34%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156896_1.fastq 01_reads/fastq_merged/GSM1156896_2.fastq 01_reads/fastq_clean/GSM1156896_1.fastq 01_reads/fastq_unpaired/GSM1156896_1.fastq 01_reads/fastq_clean/GSM1156896_2.fastq 01_reads/fastq_unpaired/GSM1156896_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7187332 Both Surviving: 6945872 (96.64%) Forward Only Surviving: 164002 (2.28%) Reverse Only Surviving: 57804 (0.80%) Dropped: 19654 (0.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156897_1.fastq 01_reads/fastq_merged/GSM1156897_2.fastq 01_reads/fastq_clean/GSM1156897_1.fastq 01_reads/fastq_unpaired/GSM1156897_1.fastq 01_reads/fastq_clean/GSM1156897_2.fastq 01_reads/fastq_unpaired/GSM1156897_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6832966 Both Surviving: 6527417 (95.53%) Forward Only Surviving: 211034 (3.09%) Reverse Only Surviving: 70337 (1.03%) Dropped: 24178 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156898_1.fastq 01_reads/fastq_merged/GSM1156898_2.fastq 01_reads/fastq_clean/GSM1156898_1.fastq 01_reads/fastq_unpaired/GSM1156898_1.fastq 01_reads/fastq_clean/GSM1156898_2.fastq 01_reads/fastq_unpaired/GSM1156898_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7203253 Both Surviving: 6962825 (96.66%) Forward Only Surviving: 161620 (2.24%) Reverse Only Surviving: 58973 (0.82%) Dropped: 19835 (0.28%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156899_1.fastq 01_reads/fastq_merged/GSM1156899_2.fastq 01_reads/fastq_clean/GSM1156899_1.fastq 01_reads/fastq_unpaired/GSM1156899_1.fastq 01_reads/fastq_clean/GSM1156899_2.fastq 01_reads/fastq_unpaired/GSM1156899_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6843433 Both Surviving: 6538841 (95.55%) Forward Only Surviving: 211904 (3.10%) Reverse Only Surviving: 68878 (1.01%) Dropped: 23810 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156900_1.fastq 01_reads/fastq_merged/GSM1156900_2.fastq 01_reads/fastq_clean/GSM1156900_1.fastq 01_reads/fastq_unpaired/GSM1156900_1.fastq 01_reads/fastq_clean/GSM1156900_2.fastq 01_reads/fastq_unpaired/GSM1156900_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7135889 Both Surviving: 6900565 (96.70%) Forward Only Surviving: 156453 (2.19%) Reverse Only Surviving: 59004 (0.83%) Dropped: 19867 (0.28%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156901_1.fastq 01_reads/fastq_merged/GSM1156901_2.fastq 01_reads/fastq_clean/GSM1156901_1.fastq 01_reads/fastq_unpaired/GSM1156901_1.fastq 01_reads/fastq_clean/GSM1156901_2.fastq 01_reads/fastq_unpaired/GSM1156901_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6720539 Both Surviving: 6419192 (95.52%) Forward Only Surviving: 212061 (3.16%) Reverse Only Surviving: 66052 (0.98%) Dropped: 23234 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156902_1.fastq 01_reads/fastq_merged/GSM1156902_2.fastq 01_reads/fastq_clean/GSM1156902_1.fastq 01_reads/fastq_unpaired/GSM1156902_1.fastq 01_reads/fastq_clean/GSM1156902_2.fastq 01_reads/fastq_unpaired/GSM1156902_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7177535 Both Surviving: 6941978 (96.72%) Forward Only Surviving: 158484 (2.21%) Reverse Only Surviving: 57727 (0.80%) Dropped: 19346 (0.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156903_1.fastq 01_reads/fastq_merged/GSM1156903_2.fastq 01_reads/fastq_clean/GSM1156903_1.fastq 01_reads/fastq_unpaired/GSM1156903_1.fastq 01_reads/fastq_clean/GSM1156903_2.fastq 01_reads/fastq_unpaired/GSM1156903_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6727336 Both Surviving: 6419484 (95.42%) Forward Only Surviving: 216771 (3.22%) Reverse Only Surviving: 67571 (1.00%) Dropped: 23510 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156904_1.fastq 01_reads/fastq_merged/GSM1156904_2.fastq 01_reads/fastq_clean/GSM1156904_1.fastq 01_reads/fastq_unpaired/GSM1156904_1.fastq 01_reads/fastq_clean/GSM1156904_2.fastq 01_reads/fastq_unpaired/GSM1156904_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7085987 Both Surviving: 6853841 (96.72%) Forward Only Surviving: 153157 (2.16%) Reverse Only Surviving: 59567 (0.84%) Dropped: 19422 (0.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156905_1.fastq 01_reads/fastq_merged/GSM1156905_2.fastq 01_reads/fastq_clean/GSM1156905_1.fastq 01_reads/fastq_unpaired/GSM1156905_1.fastq 01_reads/fastq_clean/GSM1156905_2.fastq 01_reads/fastq_unpaired/GSM1156905_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6718319 Both Surviving: 6421799 (95.59%) Forward Only Surviving: 206375 (3.07%) Reverse Only Surviving: 66928 (1.00%) Dropped: 23217 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156906_1.fastq 01_reads/fastq_merged/GSM1156906_2.fastq 01_reads/fastq_clean/GSM1156906_1.fastq 01_reads/fastq_unpaired/GSM1156906_1.fastq 01_reads/fastq_clean/GSM1156906_2.fastq 01_reads/fastq_unpaired/GSM1156906_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7259842 Both Surviving: 7029275 (96.82%) Forward Only Surviving: 148676 (2.05%) Reverse Only Surviving: 61727 (0.85%) Dropped: 20164 (0.28%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156907_1.fastq 01_reads/fastq_merged/GSM1156907_2.fastq 01_reads/fastq_clean/GSM1156907_1.fastq 01_reads/fastq_unpaired/GSM1156907_1.fastq 01_reads/fastq_clean/GSM1156907_2.fastq 01_reads/fastq_unpaired/GSM1156907_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 6798727 Both Surviving: 6503050 (95.65%) Forward Only Surviving: 203693 (3.00%) Reverse Only Surviving: 68557 (1.01%) Dropped: 23427 (0.34%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156908_1.fastq 01_reads/fastq_merged/GSM1156908_2.fastq 01_reads/fastq_clean/GSM1156908_1.fastq 01_reads/fastq_unpaired/GSM1156908_1.fastq 01_reads/fastq_clean/GSM1156908_2.fastq 01_reads/fastq_unpaired/GSM1156908_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7241273 Both Surviving: 7014637 (96.87%) Forward Only Surviving: 145803 (2.01%) Reverse Only Surviving: 61523 (0.85%) Dropped: 19310 (0.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156909_1.fastq 01_reads/fastq_merged/GSM1156909_2.fastq 01_reads/fastq_clean/GSM1156909_1.fastq 01_reads/fastq_unpaired/GSM1156909_1.fastq 01_reads/fastq_clean/GSM1156909_2.fastq 01_reads/fastq_unpaired/GSM1156909_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7065028 Both Surviving: 6732759 (95.30%) Forward Only Surviving: 239024 (3.38%) Reverse Only Surviving: 68203 (0.97%) Dropped: 25042 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156910_1.fastq 01_reads/fastq_merged/GSM1156910_2.fastq 01_reads/fastq_clean/GSM1156910_1.fastq 01_reads/fastq_unpaired/GSM1156910_1.fastq 01_reads/fastq_clean/GSM1156910_2.fastq 01_reads/fastq_unpaired/GSM1156910_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7715168 Both Surviving: 7431425 (96.32%) Forward Only Surviving: 201122 (2.61%) Reverse Only Surviving: 59878 (0.78%) Dropped: 22743 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156911_1.fastq 01_reads/fastq_merged/GSM1156911_2.fastq 01_reads/fastq_clean/GSM1156911_1.fastq 01_reads/fastq_unpaired/GSM1156911_1.fastq 01_reads/fastq_clean/GSM1156911_2.fastq 01_reads/fastq_unpaired/GSM1156911_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7264210 Both Surviving: 6926273 (95.35%) Forward Only Surviving: 238534 (3.28%) Reverse Only Surviving: 73183 (1.01%) Dropped: 26220 (0.36%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156912_1.fastq 01_reads/fastq_merged/GSM1156912_2.fastq 01_reads/fastq_clean/GSM1156912_1.fastq 01_reads/fastq_unpaired/GSM1156912_1.fastq 01_reads/fastq_clean/GSM1156912_2.fastq 01_reads/fastq_unpaired/GSM1156912_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7650254 Both Surviving: 7375947 (96.41%) Forward Only Surviving: 194278 (2.54%) Reverse Only Surviving: 57493 (0.75%) Dropped: 22536 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156913_1.fastq 01_reads/fastq_merged/GSM1156913_2.fastq 01_reads/fastq_clean/GSM1156913_1.fastq 01_reads/fastq_unpaired/GSM1156913_1.fastq 01_reads/fastq_clean/GSM1156913_2.fastq 01_reads/fastq_unpaired/GSM1156913_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7229213 Both Surviving: 6890416 (95.31%) Forward Only Surviving: 242967 (3.36%) Reverse Only Surviving: 68963 (0.95%) Dropped: 26867 (0.37%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156914_1.fastq 01_reads/fastq_merged/GSM1156914_2.fastq 01_reads/fastq_clean/GSM1156914_1.fastq 01_reads/fastq_unpaired/GSM1156914_1.fastq 01_reads/fastq_clean/GSM1156914_2.fastq 01_reads/fastq_unpaired/GSM1156914_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7683232 Both Surviving: 7411598 (96.46%) Forward Only Surviving: 190125 (2.47%) Reverse Only Surviving: 58741 (0.76%) Dropped: 22768 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156915_1.fastq 01_reads/fastq_merged/GSM1156915_2.fastq 01_reads/fastq_clean/GSM1156915_1.fastq 01_reads/fastq_unpaired/GSM1156915_1.fastq 01_reads/fastq_clean/GSM1156915_2.fastq 01_reads/fastq_unpaired/GSM1156915_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7256790 Both Surviving: 6917588 (95.33%) Forward Only Surviving: 244420 (3.37%) Reverse Only Surviving: 68318 (0.94%) Dropped: 26464 (0.36%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156916_1.fastq 01_reads/fastq_merged/GSM1156916_2.fastq 01_reads/fastq_clean/GSM1156916_1.fastq 01_reads/fastq_unpaired/GSM1156916_1.fastq 01_reads/fastq_clean/GSM1156916_2.fastq 01_reads/fastq_unpaired/GSM1156916_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7597667 Both Surviving: 7331677 (96.50%) Forward Only Surviving: 184538 (2.43%) Reverse Only Surviving: 58913 (0.78%) Dropped: 22539 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156917_1.fastq 01_reads/fastq_merged/GSM1156917_2.fastq 01_reads/fastq_clean/GSM1156917_1.fastq 01_reads/fastq_unpaired/GSM1156917_1.fastq 01_reads/fastq_clean/GSM1156917_2.fastq 01_reads/fastq_unpaired/GSM1156917_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7114461 Both Surviving: 6781987 (95.33%) Forward Only Surviving: 242390 (3.41%) Reverse Only Surviving: 64743 (0.91%) Dropped: 25341 (0.36%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156918_1.fastq 01_reads/fastq_merged/GSM1156918_2.fastq 01_reads/fastq_clean/GSM1156918_1.fastq 01_reads/fastq_unpaired/GSM1156918_1.fastq 01_reads/fastq_clean/GSM1156918_2.fastq 01_reads/fastq_unpaired/GSM1156918_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7647092 Both Surviving: 7380354 (96.51%) Forward Only Surviving: 186641 (2.44%) Reverse Only Surviving: 57867 (0.76%) Dropped: 22230 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156919_1.fastq 01_reads/fastq_merged/GSM1156919_2.fastq 01_reads/fastq_clean/GSM1156919_1.fastq 01_reads/fastq_unpaired/GSM1156919_1.fastq 01_reads/fastq_clean/GSM1156919_2.fastq 01_reads/fastq_unpaired/GSM1156919_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7112814 Both Surviving: 6771131 (95.20%) Forward Only Surviving: 248780 (3.50%) Reverse Only Surviving: 66593 (0.94%) Dropped: 26310 (0.37%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156920_1.fastq 01_reads/fastq_merged/GSM1156920_2.fastq 01_reads/fastq_clean/GSM1156920_1.fastq 01_reads/fastq_unpaired/GSM1156920_1.fastq 01_reads/fastq_clean/GSM1156920_2.fastq 01_reads/fastq_unpaired/GSM1156920_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7569214 Both Surviving: 7306365 (96.53%) Forward Only Surviving: 181598 (2.40%) Reverse Only Surviving: 58812 (0.78%) Dropped: 22439 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156921_1.fastq 01_reads/fastq_merged/GSM1156921_2.fastq 01_reads/fastq_clean/GSM1156921_1.fastq 01_reads/fastq_unpaired/GSM1156921_1.fastq 01_reads/fastq_clean/GSM1156921_2.fastq 01_reads/fastq_unpaired/GSM1156921_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7095305 Both Surviving: 6768046 (95.39%) Forward Only Surviving: 236241 (3.33%) Reverse Only Surviving: 65614 (0.92%) Dropped: 25404 (0.36%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156922_1.fastq 01_reads/fastq_merged/GSM1156922_2.fastq 01_reads/fastq_clean/GSM1156922_1.fastq 01_reads/fastq_unpaired/GSM1156922_1.fastq 01_reads/fastq_clean/GSM1156922_2.fastq 01_reads/fastq_unpaired/GSM1156922_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7731696 Both Surviving: 7471099 (96.63%) Forward Only Surviving: 176616 (2.28%) Reverse Only Surviving: 61212 (0.79%) Dropped: 22769 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156923_1.fastq 01_reads/fastq_merged/GSM1156923_2.fastq 01_reads/fastq_clean/GSM1156923_1.fastq 01_reads/fastq_unpaired/GSM1156923_1.fastq 01_reads/fastq_clean/GSM1156923_2.fastq 01_reads/fastq_unpaired/GSM1156923_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7198411 Both Surviving: 6870252 (95.44%) Forward Only Surviving: 234812 (3.26%) Reverse Only Surviving: 67323 (0.94%) Dropped: 26024 (0.36%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156924_1.fastq 01_reads/fastq_merged/GSM1156924_2.fastq 01_reads/fastq_clean/GSM1156924_1.fastq 01_reads/fastq_unpaired/GSM1156924_1.fastq 01_reads/fastq_clean/GSM1156924_2.fastq 01_reads/fastq_unpaired/GSM1156924_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 7691361 Both Surviving: 7435299 (96.67%) Forward Only Surviving: 173071 (2.25%) Reverse Only Surviving: 60884 (0.79%) Dropped: 22107 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156925_1.fastq 01_reads/fastq_merged/GSM1156925_2.fastq 01_reads/fastq_clean/GSM1156925_1.fastq 01_reads/fastq_unpaired/GSM1156925_1.fastq 01_reads/fastq_clean/GSM1156925_2.fastq 01_reads/fastq_unpaired/GSM1156925_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5331349 Both Surviving: 5105205 (95.76%) Forward Only Surviving: 162111 (3.04%) Reverse Only Surviving: 48683 (0.91%) Dropped: 15350 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156926_1.fastq 01_reads/fastq_merged/GSM1156926_2.fastq 01_reads/fastq_clean/GSM1156926_1.fastq 01_reads/fastq_unpaired/GSM1156926_1.fastq 01_reads/fastq_clean/GSM1156926_2.fastq 01_reads/fastq_unpaired/GSM1156926_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5569605 Both Surviving: 5389017 (96.76%) Forward Only Surviving: 127857 (2.30%) Reverse Only Surviving: 39738 (0.71%) Dropped: 12993 (0.23%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156927_1.fastq 01_reads/fastq_merged/GSM1156927_2.fastq 01_reads/fastq_clean/GSM1156927_1.fastq 01_reads/fastq_unpaired/GSM1156927_1.fastq 01_reads/fastq_clean/GSM1156927_2.fastq 01_reads/fastq_unpaired/GSM1156927_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5166673 Both Surviving: 4950315 (95.81%) Forward Only Surviving: 151850 (2.94%) Reverse Only Surviving: 49658 (0.96%) Dropped: 14850 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156928_1.fastq 01_reads/fastq_merged/GSM1156928_2.fastq 01_reads/fastq_clean/GSM1156928_1.fastq 01_reads/fastq_unpaired/GSM1156928_1.fastq 01_reads/fastq_clean/GSM1156928_2.fastq 01_reads/fastq_unpaired/GSM1156928_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5592659 Both Surviving: 5416888 (96.86%) Forward Only Surviving: 123932 (2.22%) Reverse Only Surviving: 38755 (0.69%) Dropped: 13084 (0.23%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156929_1.fastq 01_reads/fastq_merged/GSM1156929_2.fastq 01_reads/fastq_clean/GSM1156929_1.fastq 01_reads/fastq_unpaired/GSM1156929_1.fastq 01_reads/fastq_clean/GSM1156929_2.fastq 01_reads/fastq_unpaired/GSM1156929_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5315666 Both Surviving: 5090982 (95.77%) Forward Only Surviving: 160727 (3.02%) Reverse Only Surviving: 48057 (0.90%) Dropped: 15900 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156930_1.fastq 01_reads/fastq_merged/GSM1156930_2.fastq 01_reads/fastq_clean/GSM1156930_1.fastq 01_reads/fastq_unpaired/GSM1156930_1.fastq 01_reads/fastq_clean/GSM1156930_2.fastq 01_reads/fastq_unpaired/GSM1156930_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5709118 Both Surviving: 5530381 (96.87%) Forward Only Surviving: 125065 (2.19%) Reverse Only Surviving: 40222 (0.70%) Dropped: 13450 (0.24%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156931_1.fastq 01_reads/fastq_merged/GSM1156931_2.fastq 01_reads/fastq_clean/GSM1156931_1.fastq 01_reads/fastq_unpaired/GSM1156931_1.fastq 01_reads/fastq_clean/GSM1156931_2.fastq 01_reads/fastq_unpaired/GSM1156931_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5373913 Both Surviving: 5148268 (95.80%) Forward Only Surviving: 161805 (3.01%) Reverse Only Surviving: 47651 (0.89%) Dropped: 16189 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156932_1.fastq 01_reads/fastq_merged/GSM1156932_2.fastq 01_reads/fastq_clean/GSM1156932_1.fastq 01_reads/fastq_unpaired/GSM1156932_1.fastq 01_reads/fastq_clean/GSM1156932_2.fastq 01_reads/fastq_unpaired/GSM1156932_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5540324 Both Surviving: 5369076 (96.91%) Forward Only Surviving: 118769 (2.14%) Reverse Only Surviving: 39656 (0.72%) Dropped: 12823 (0.23%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156933_1.fastq 01_reads/fastq_merged/GSM1156933_2.fastq 01_reads/fastq_clean/GSM1156933_1.fastq 01_reads/fastq_unpaired/GSM1156933_1.fastq 01_reads/fastq_clean/GSM1156933_2.fastq 01_reads/fastq_unpaired/GSM1156933_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5307068 Both Surviving: 5081268 (95.75%) Forward Only Surviving: 164602 (3.10%) Reverse Only Surviving: 45640 (0.86%) Dropped: 15558 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156934_1.fastq 01_reads/fastq_merged/GSM1156934_2.fastq 01_reads/fastq_clean/GSM1156934_1.fastq 01_reads/fastq_unpaired/GSM1156934_1.fastq 01_reads/fastq_clean/GSM1156934_2.fastq 01_reads/fastq_unpaired/GSM1156934_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5600713 Both Surviving: 5427738 (96.91%) Forward Only Surviving: 120963 (2.16%) Reverse Only Surviving: 39191 (0.70%) Dropped: 12821 (0.23%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156935_1.fastq 01_reads/fastq_merged/GSM1156935_2.fastq 01_reads/fastq_clean/GSM1156935_1.fastq 01_reads/fastq_unpaired/GSM1156935_1.fastq 01_reads/fastq_clean/GSM1156935_2.fastq 01_reads/fastq_unpaired/GSM1156935_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5219613 Both Surviving: 4992681 (95.65%) Forward Only Surviving: 165205 (3.17%) Reverse Only Surviving: 46177 (0.88%) Dropped: 15550 (0.30%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156936_1.fastq 01_reads/fastq_merged/GSM1156936_2.fastq 01_reads/fastq_clean/GSM1156936_1.fastq 01_reads/fastq_unpaired/GSM1156936_1.fastq 01_reads/fastq_clean/GSM1156936_2.fastq 01_reads/fastq_unpaired/GSM1156936_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5704148 Both Surviving: 5528942 (96.93%) Forward Only Surviving: 121175 (2.12%) Reverse Only Surviving: 40766 (0.71%) Dropped: 13265 (0.23%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156937_1.fastq 01_reads/fastq_merged/GSM1156937_2.fastq 01_reads/fastq_clean/GSM1156937_1.fastq 01_reads/fastq_unpaired/GSM1156937_1.fastq 01_reads/fastq_clean/GSM1156937_2.fastq 01_reads/fastq_unpaired/GSM1156937_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5225440 Both Surviving: 5007001 (95.82%) Forward Only Surviving: 157441 (3.01%) Reverse Only Surviving: 45636 (0.87%) Dropped: 15362 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156938_1.fastq 01_reads/fastq_merged/GSM1156938_2.fastq 01_reads/fastq_clean/GSM1156938_1.fastq 01_reads/fastq_unpaired/GSM1156938_1.fastq 01_reads/fastq_clean/GSM1156938_2.fastq 01_reads/fastq_unpaired/GSM1156938_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5752069 Both Surviving: 5580357 (97.01%) Forward Only Surviving: 115751 (2.01%) Reverse Only Surviving: 42365 (0.74%) Dropped: 13596 (0.24%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156939_1.fastq 01_reads/fastq_merged/GSM1156939_2.fastq 01_reads/fastq_clean/GSM1156939_1.fastq 01_reads/fastq_unpaired/GSM1156939_1.fastq 01_reads/fastq_clean/GSM1156939_2.fastq 01_reads/fastq_unpaired/GSM1156939_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5286007 Both Surviving: 5068995 (95.89%) Forward Only Surviving: 154718 (2.93%) Reverse Only Surviving: 46885 (0.89%) Dropped: 15409 (0.29%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156940_1.fastq 01_reads/fastq_merged/GSM1156940_2.fastq 01_reads/fastq_clean/GSM1156940_1.fastq 01_reads/fastq_unpaired/GSM1156940_1.fastq 01_reads/fastq_clean/GSM1156940_2.fastq 01_reads/fastq_unpaired/GSM1156940_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 5674176 Both Surviving: 5506997 (97.05%) Forward Only Surviving: 112658 (1.99%) Reverse Only Surviving: 41658 (0.73%) Dropped: 12863 (0.23%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156941_1.fastq 01_reads/fastq_merged/GSM1156941_2.fastq 01_reads/fastq_clean/GSM1156941_1.fastq 01_reads/fastq_unpaired/GSM1156941_1.fastq 01_reads/fastq_clean/GSM1156941_2.fastq 01_reads/fastq_unpaired/GSM1156941_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4031748 Both Surviving: 3859124 (95.72%) Forward Only Surviving: 124115 (3.08%) Reverse Only Surviving: 35043 (0.87%) Dropped: 13466 (0.33%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156942_1.fastq 01_reads/fastq_merged/GSM1156942_2.fastq 01_reads/fastq_clean/GSM1156942_1.fastq 01_reads/fastq_unpaired/GSM1156942_1.fastq 01_reads/fastq_clean/GSM1156942_2.fastq 01_reads/fastq_unpaired/GSM1156942_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4436455 Both Surviving: 4286629 (96.62%) Forward Only Surviving: 107767 (2.43%) Reverse Only Surviving: 30329 (0.68%) Dropped: 11730 (0.26%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156943_1.fastq 01_reads/fastq_merged/GSM1156943_2.fastq 01_reads/fastq_clean/GSM1156943_1.fastq 01_reads/fastq_unpaired/GSM1156943_1.fastq 01_reads/fastq_clean/GSM1156943_2.fastq 01_reads/fastq_unpaired/GSM1156943_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4005272 Both Surviving: 3835676 (95.77%) Forward Only Surviving: 119909 (2.99%) Reverse Only Surviving: 35934 (0.90%) Dropped: 13753 (0.34%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156944_1.fastq 01_reads/fastq_merged/GSM1156944_2.fastq 01_reads/fastq_clean/GSM1156944_1.fastq 01_reads/fastq_unpaired/GSM1156944_1.fastq 01_reads/fastq_clean/GSM1156944_2.fastq 01_reads/fastq_unpaired/GSM1156944_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4369847 Both Surviving: 4225120 (96.69%) Forward Only Surviving: 103669 (2.37%) Reverse Only Surviving: 29613 (0.68%) Dropped: 11445 (0.26%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156945_1.fastq 01_reads/fastq_merged/GSM1156945_2.fastq 01_reads/fastq_clean/GSM1156945_1.fastq 01_reads/fastq_unpaired/GSM1156945_1.fastq 01_reads/fastq_clean/GSM1156945_2.fastq 01_reads/fastq_unpaired/GSM1156945_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4036414 Both Surviving: 3863587 (95.72%) Forward Only Surviving: 123767 (3.07%) Reverse Only Surviving: 34909 (0.86%) Dropped: 14151 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156946_1.fastq 01_reads/fastq_merged/GSM1156946_2.fastq 01_reads/fastq_clean/GSM1156946_1.fastq 01_reads/fastq_unpaired/GSM1156946_1.fastq 01_reads/fastq_clean/GSM1156946_2.fastq 01_reads/fastq_unpaired/GSM1156946_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4405850 Both Surviving: 4261359 (96.72%) Forward Only Surviving: 102472 (2.33%) Reverse Only Surviving: 30274 (0.69%) Dropped: 11745 (0.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156947_1.fastq 01_reads/fastq_merged/GSM1156947_2.fastq 01_reads/fastq_clean/GSM1156947_1.fastq 01_reads/fastq_unpaired/GSM1156947_1.fastq 01_reads/fastq_clean/GSM1156947_2.fastq 01_reads/fastq_unpaired/GSM1156947_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4031794 Both Surviving: 3861124 (95.77%) Forward Only Surviving: 122673 (3.04%) Reverse Only Surviving: 33950 (0.84%) Dropped: 14047 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156948_1.fastq 01_reads/fastq_merged/GSM1156948_2.fastq 01_reads/fastq_clean/GSM1156948_1.fastq 01_reads/fastq_unpaired/GSM1156948_1.fastq 01_reads/fastq_clean/GSM1156948_2.fastq 01_reads/fastq_unpaired/GSM1156948_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4334494 Both Surviving: 4193779 (96.75%) Forward Only Surviving: 99206 (2.29%) Reverse Only Surviving: 30214 (0.70%) Dropped: 11295 (0.26%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156949_1.fastq 01_reads/fastq_merged/GSM1156949_2.fastq 01_reads/fastq_clean/GSM1156949_1.fastq 01_reads/fastq_unpaired/GSM1156949_1.fastq 01_reads/fastq_clean/GSM1156949_2.fastq 01_reads/fastq_unpaired/GSM1156949_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 3956329 Both Surviving: 3787621 (95.74%) Forward Only Surviving: 122980 (3.11%) Reverse Only Surviving: 32191 (0.81%) Dropped: 13537 (0.34%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156950_1.fastq 01_reads/fastq_merged/GSM1156950_2.fastq 01_reads/fastq_clean/GSM1156950_1.fastq 01_reads/fastq_unpaired/GSM1156950_1.fastq 01_reads/fastq_clean/GSM1156950_2.fastq 01_reads/fastq_unpaired/GSM1156950_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4364091 Both Surviving: 4223004 (96.77%) Forward Only Surviving: 100374 (2.30%) Reverse Only Surviving: 29407 (0.67%) Dropped: 11306 (0.26%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156951_1.fastq 01_reads/fastq_merged/GSM1156951_2.fastq 01_reads/fastq_clean/GSM1156951_1.fastq 01_reads/fastq_unpaired/GSM1156951_1.fastq 01_reads/fastq_clean/GSM1156951_2.fastq 01_reads/fastq_unpaired/GSM1156951_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 3936927 Both Surviving: 3764942 (95.63%) Forward Only Surviving: 125647 (3.19%) Reverse Only Surviving: 32654 (0.83%) Dropped: 13684 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156952_1.fastq 01_reads/fastq_merged/GSM1156952_2.fastq 01_reads/fastq_clean/GSM1156952_1.fastq 01_reads/fastq_unpaired/GSM1156952_1.fastq 01_reads/fastq_clean/GSM1156952_2.fastq 01_reads/fastq_unpaired/GSM1156952_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4399647 Both Surviving: 4259020 (96.80%) Forward Only Surviving: 98771 (2.24%) Reverse Only Surviving: 30365 (0.69%) Dropped: 11491 (0.26%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156953_1.fastq 01_reads/fastq_merged/GSM1156953_2.fastq 01_reads/fastq_clean/GSM1156953_1.fastq 01_reads/fastq_unpaired/GSM1156953_1.fastq 01_reads/fastq_clean/GSM1156953_2.fastq 01_reads/fastq_unpaired/GSM1156953_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 3936427 Both Surviving: 3769565 (95.76%) Forward Only Surviving: 120160 (3.05%) Reverse Only Surviving: 32867 (0.83%) Dropped: 13835 (0.35%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156954_1.fastq 01_reads/fastq_merged/GSM1156954_2.fastq 01_reads/fastq_clean/GSM1156954_1.fastq 01_reads/fastq_unpaired/GSM1156954_1.fastq 01_reads/fastq_clean/GSM1156954_2.fastq 01_reads/fastq_unpaired/GSM1156954_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4452224 Both Surviving: 4312789 (96.87%) Forward Only Surviving: 96314 (2.16%) Reverse Only Surviving: 31387 (0.70%) Dropped: 11734 (0.26%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156955_1.fastq 01_reads/fastq_merged/GSM1156955_2.fastq 01_reads/fastq_clean/GSM1156955_1.fastq 01_reads/fastq_unpaired/GSM1156955_1.fastq 01_reads/fastq_clean/GSM1156955_2.fastq 01_reads/fastq_unpaired/GSM1156955_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 3976219 Both Surviving: 3812267 (95.88%) Forward Only Surviving: 117440 (2.95%) Reverse Only Surviving: 33076 (0.83%) Dropped: 13436 (0.34%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1156956_1.fastq 01_reads/fastq_merged/GSM1156956_2.fastq 01_reads/fastq_clean/GSM1156956_1.fastq 01_reads/fastq_unpaired/GSM1156956_1.fastq 01_reads/fastq_clean/GSM1156956_2.fastq 01_reads/fastq_unpaired/GSM1156956_2.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Input Read Pairs: 4467619 Both Surviving: 4329036 (96.90%) Forward Only Surviving: 94977 (2.13%) Reverse Only Surviving: 31764 (0.71%) Dropped: 11842 (0.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328501.fastq 01_reads/fastq_clean/GSM1328501.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 40243776 Surviving: 39116436 (97.20%) Dropped: 1127340 (2.80%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328502.fastq 01_reads/fastq_clean/GSM1328502.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 55894697 Surviving: 54815827 (98.07%) Dropped: 1078870 (1.93%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328503.fastq 01_reads/fastq_clean/GSM1328503.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 52132882 Surviving: 50652916 (97.16%) Dropped: 1479966 (2.84%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328504.fastq 01_reads/fastq_clean/GSM1328504.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 46304026 Surviving: 45356937 (97.95%) Dropped: 947089 (2.05%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328505.fastq 01_reads/fastq_clean/GSM1328505.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 36770720 Surviving: 36125465 (98.25%) Dropped: 645255 (1.75%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328506.fastq 01_reads/fastq_clean/GSM1328506.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 41830356 Surviving: 41057176 (98.15%) Dropped: 773180 (1.85%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328507.fastq 01_reads/fastq_clean/GSM1328507.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 42839368 Surviving: 42014884 (98.08%) Dropped: 824484 (1.92%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328508.fastq 01_reads/fastq_clean/GSM1328508.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 45933093 Surviving: 45104905 (98.20%) Dropped: 828188 (1.80%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328509.fastq 01_reads/fastq_clean/GSM1328509.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 30816305 Surviving: 29955247 (97.21%) Dropped: 861058 (2.79%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328510.fastq 01_reads/fastq_clean/GSM1328510.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 56085643 Surviving: 54933574 (97.95%) Dropped: 1152069 (2.05%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328511.fastq 01_reads/fastq_clean/GSM1328511.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 37425957 Surviving: 36406187 (97.28%) Dropped: 1019770 (2.72%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328512.fastq 01_reads/fastq_clean/GSM1328512.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 30959602 Surviving: 30012866 (96.94%) Dropped: 946736 (3.06%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328513.fastq 01_reads/fastq_clean/GSM1328513.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 56057901 Surviving: 50980342 (90.94%) Dropped: 5077559 (9.06%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328514.fastq 01_reads/fastq_clean/GSM1328514.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 47681218 Surviving: 46731965 (98.01%) Dropped: 949253 (1.99%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328515.fastq 01_reads/fastq_clean/GSM1328515.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 65666976 Surviving: 64439941 (98.13%) Dropped: 1227035 (1.87%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328516.fastq 01_reads/fastq_clean/GSM1328516.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 66613288 Surviving: 65247832 (97.95%) Dropped: 1365456 (2.05%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328517.fastq 01_reads/fastq_clean/GSM1328517.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 29965640 Surviving: 29211985 (97.48%) Dropped: 753655 (2.52%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328518.fastq 01_reads/fastq_clean/GSM1328518.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 51323751 Surviving: 50030111 (97.48%) Dropped: 1293640 (2.52%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328519.fastq 01_reads/fastq_clean/GSM1328519.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 57541039 Surviving: 56589388 (98.35%) Dropped: 951651 (1.65%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328520.fastq 01_reads/fastq_clean/GSM1328520.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 33250363 Surviving: 32343693 (97.27%) Dropped: 906670 (2.73%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328521.fastq 01_reads/fastq_clean/GSM1328521.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 45953040 Surviving: 45094086 (98.13%) Dropped: 858954 (1.87%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328522.fastq 01_reads/fastq_clean/GSM1328522.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 56030679 Surviving: 54952046 (98.07%) Dropped: 1078633 (1.93%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328523.fastq 01_reads/fastq_clean/GSM1328523.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 35332949 Surviving: 34328615 (97.16%) Dropped: 1004334 (2.84%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328524.fastq 01_reads/fastq_clean/GSM1328524.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 35757661 Surviving: 35046630 (98.01%) Dropped: 711031 (1.99%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328525.fastq 01_reads/fastq_clean/GSM1328525.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 46611957 Surviving: 45698638 (98.04%) Dropped: 913319 (1.96%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328526.fastq 01_reads/fastq_clean/GSM1328526.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 33650904 Surviving: 32550437 (96.73%) Dropped: 1100467 (3.27%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328527.fastq 01_reads/fastq_clean/GSM1328527.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 39897816 Surviving: 38810123 (97.27%) Dropped: 1087693 (2.73%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328528.fastq 01_reads/fastq_clean/GSM1328528.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 34318172 Surviving: 33333180 (97.13%) Dropped: 984992 (2.87%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328529.fastq 01_reads/fastq_clean/GSM1328529.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 45048861 Surviving: 44094127 (97.88%) Dropped: 954734 (2.12%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328530.fastq 01_reads/fastq_clean/GSM1328530.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 36847461 Surviving: 35835235 (97.25%) Dropped: 1012226 (2.75%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328531.fastq 01_reads/fastq_clean/GSM1328531.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 34192975 Surviving: 33293177 (97.37%) Dropped: 899798 (2.63%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -phred33 01_reads/fastq_merged/GSM1328532.fastq 01_reads/fastq_clean/GSM1328532.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36 AVGQUAL:20
+Automatically using 1 threads
+Input Reads: 40326338 Surviving: 39450872 (97.83%) Dropped: 875466 (2.17%)
+TrimmomaticSE: Completed successfully

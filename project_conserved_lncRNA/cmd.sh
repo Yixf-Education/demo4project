@@ -10,6 +10,6 @@ nohup 00_bin/01.2_multi2one_srr2gsm.sh -d 01_reads  > 01_reads/merge.log 2>&1 &
 # FastQC all raw reads
 bash 00_bin/01.3_fastqc_raw.sh
 # Trim and filter reads
-bash 00_bin/01.4_trimmomatic.sh
+nohup bash 00_bin/01.4_trimmomatic.sh > 01_reads/trimmomatic.log 2>&1 &
 # FastQC all raw reads
 bash 00_bin/01.5_fastqc_clean.sh
