@@ -6,4 +6,7 @@ nohup.out
 *.fastq
 *.fq.gz
 *.fastq.gz
-
+*.2bit
+*.fa
+*.fa.gz
+*.tar.gz

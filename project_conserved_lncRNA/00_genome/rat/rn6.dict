@@ -1,0 +1,23 @@
+@HD	VN:1.0	SO:unsorted
+@SQ	SN:chr1	LN:282763074	M5:67cb6bbed9d7e4434bd6d277e3f883c2	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr2	LN:266435125	M5:870bf9cbd43d131a3cbc5e46d055c994	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr3	LN:177699992	M5:1abe4392f6814dae1f76d9370af7081f	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr4	LN:184226339	M5:0bf225d2405a2c389d69bd9244db9b27	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr5	LN:173707219	M5:ad978551220f08c53cb82e696820eeaa	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr6	LN:147991367	M5:379e2d09f32e889bca3a0f10c6ede8a6	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr7	LN:145729302	M5:f9f100d28517f4bf3a95845c48ef4a3a	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr8	LN:133307652	M5:d420001ae3e7459b13d361fdb269ca84	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr9	LN:122095297	M5:e9cf5849b048f580eb3a23eb1839c2ec	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr10	LN:112626471	M5:e9759c35441e7fb54f808355ed02f203	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr11	LN:90463843	M5:135ddf3acf162e1b2ed4873b88fceb42	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr12	LN:52716770	M5:6e2d87a73450fdf74a1be9fb125de912	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr13	LN:114033958	M5:6cd801834808dfae034ce236d1e2aa05	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr14	LN:115493446	M5:dc586a0c53ce5962e82dea52fa98aed0	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr15	LN:111246239	M5:13c82b1f09df597f9f58d0c2257de2a1	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr16	LN:90668790	M5:f086694a9a8f84df45a41abf2ef5e343	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr17	LN:90843779	M5:ad3508d1a6c6579abfd64b931705602f	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr18	LN:88201929	M5:0cb1fd137918f86c53b825e204e7fe94	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr19	LN:62275575	M5:16b0eedce7984ee4b136e1861a0308b6	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chr20	LN:56205956	M5:935f0229960c7a99c63ca7dfa048fb56	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chrX	LN:159970021	M5:ff2f08bc0aa39f6dac7f2f474abb3a27	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chrY	LN:3310458	M5:e09f9949961092168fa05210c5ad4dbd	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
