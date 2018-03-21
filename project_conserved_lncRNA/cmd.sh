@@ -13,3 +13,7 @@ bash 00_bin/01.3_fastqc_raw.sh
 nohup bash 00_bin/01.4_trimmomatic.sh > 01_reads/trimmomatic.log 2>&1 &
 # FastQC all raw reads
 bash 00_bin/01.5_fastqc_clean.sh
+
+# Gather and rename FASTQs
+perl 00_bin/02_ln_reads.pl
+
