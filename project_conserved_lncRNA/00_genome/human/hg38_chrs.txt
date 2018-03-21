@@ -22,3 +22,4 @@ chr21
 chr22
 chrX
 chrY
+chrM

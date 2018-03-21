@@ -21,3 +21,4 @@
 @SQ	SN:chr20	LN:56205956	M5:935f0229960c7a99c63ca7dfa048fb56	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
 @SQ	SN:chrX	LN:159970021	M5:ff2f08bc0aa39f6dac7f2f474abb3a27	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
 @SQ	SN:chrY	LN:3310458	M5:e09f9949961092168fa05210c5ad4dbd	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat
+@SQ	SN:chrM	LN:16313	M5:817c23329620973af522ca16a9685e48	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/rat/rn6.fa	AS:rn6	SP:rat

@@ -23,3 +23,4 @@
 @SQ	SN:chr22	LN:50818468	M5:221733a2a15e2de66d33e73d126c5109	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/human/hg38.fa	AS:hg38	SP:human
 @SQ	SN:chrX	LN:156040895	M5:49527016a48497d9d1cbd8e4a9049bd3	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/human/hg38.fa	AS:hg38	SP:human
 @SQ	SN:chrY	LN:57227415	M5:b2b7e6369564d89059e763cd6e736837	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/human/hg38.fa	AS:hg38	SP:human
+@SQ	SN:chrM	LN:16569	M5:c68f52674c9fb33aef52dcf399755519	UR:file:///home/yixf/demo4project/project_conserved_lncRNA/00_genome/human/hg38.fa	AS:hg38	SP:human

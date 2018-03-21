@@ -11,3 +11,7 @@ nohup.out
 *.fa.gz
 *.tar.gz
 *.zip
+*.html
+*.gff3
+*.gtf
+*.gz

@@ -20,3 +20,4 @@ chr19
 chr20
 chrX
 chrY
+chrM
