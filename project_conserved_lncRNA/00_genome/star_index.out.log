@@ -1,0 +1,479 @@
+STAR version=STAR_2.5.3a_modified
+STAR compilation time,server,dir=Tue Jan 23 14:51:42 EST 2018 florence.cshl.edu:/sonas-hs/gingeras/nlsas_norepl/user/dobin/STAR/STAR.sandbox/source
+##### DEFAULT parameters:
+versionSTAR                       20201
+versionGenome                     20101   20200   
+parametersFiles                   -   
+sysShell                          -
+runMode                           alignReads
+runThreadN                        1
+runDirPerm                        User_RWX
+runRNGseed                        777
+genomeDir                         ./GenomeDir/
+genomeLoad                        NoSharedMemory
+genomeFastaFiles                  -   
+genomeChainFiles                  -   
+genomeSAindexNbases               14
+genomeChrBinNbits                 18
+genomeSAsparseD                   1
+genomeSuffixLengthMax             18446744073709551615
+genomeFileSizes                   0   
+genomeConsensusFile               -
+readFilesType                     Fastx   
+readFilesIn                       Read1   Read2   
+readFilesPrefix                   -
+readFilesCommand                  -   
+readMatesLengthsIn                NotEqual
+readMapNumber                     18446744073709551615
+readNameSeparator                 /   
+inputBAMfile                      -
+bamRemoveDuplicatesType           -
+bamRemoveDuplicatesMate2basesN    0
+limitGenomeGenerateRAM            31000000000
+limitIObufferSize                 150000000
+limitOutSAMoneReadBytes           100000
+limitOutSJcollapsed               1000000
+limitOutSJoneRead                 1000
+limitBAMsortRAM                   0
+limitSjdbInsertNsj                1000000
+outFileNamePrefix                 ./
+outTmpDir                         -
+outTmpKeep                        None
+outStd                            Log
+outReadsUnmapped                  None
+outQSconversionAdd                0
+outMultimapperOrder               Old_2.4
+outSAMtype                        SAM   
+outSAMmode                        Full
+outSAMstrandField                 None
+outSAMattributes                  Standard   
+outSAMunmapped                    None   
+outSAMorder                       Paired
+outSAMprimaryFlag                 OneBestScore
+outSAMreadID                      Standard
+outSAMmapqUnique                  255
+outSAMflagOR                      0
+outSAMflagAND                     65535
+outSAMattrRGline                  -   
+outSAMheaderHD                    -   
+outSAMheaderPG                    -   
+outSAMheaderCommentFile           -
+outBAMcompression                 1
+outBAMsortingThreadN              0
+outSAMfilter                      None   
+outSAMmultNmax                    18446744073709551615
+outSAMattrIHstart                 1
+outSJfilterReads                  All
+outSJfilterCountUniqueMin         3   1   1   1   
+outSJfilterCountTotalMin          3   1   1   1   
+outSJfilterOverhangMin            30   12   12   12   
+outSJfilterDistToOtherSJmin       10   0   5   10   
+outSJfilterIntronMaxVsReadN       50000   100000   200000   
+outWigType                        None   
+outWigStrand                      Stranded   
+outWigReferencesPrefix            -
+outWigNorm                        RPM   
+outFilterType                     Normal
+outFilterMultimapNmax             10
+outFilterMultimapScoreRange       1
+outFilterScoreMin                 0
+outFilterScoreMinOverLread        0.66
+outFilterMatchNmin                0
+outFilterMatchNminOverLread       0.66
+outFilterMismatchNmax             10
+outFilterMismatchNoverLmax        0.3
+outFilterMismatchNoverReadLmax    1
+outFilterIntronMotifs             None
+outFilterIntronStrands            RemoveInconsistentStrands
+clip5pNbases                      0   
+clip3pNbases                      0   
+clip3pAfterAdapterNbases          0   
+clip3pAdapterSeq                  -   
+clip3pAdapterMMp                  0.1   
+winBinNbits                       16
+winAnchorDistNbins                9
+winFlankNbins                     4
+winAnchorMultimapNmax             50
+winReadCoverageRelativeMin        0.5
+winReadCoverageBasesMin           0
+scoreGap                          0
+scoreGapNoncan                    -8
+scoreGapGCAG                      -4
+scoreGapATAC                      -8
+scoreStitchSJshift                1
+scoreGenomicLengthLog2scale       -0.25
+scoreDelBase                      -2
+scoreDelOpen                      -2
+scoreInsOpen                      -2
+scoreInsBase                      -2
+seedSearchLmax                    0
+seedSearchStartLmax               50
+seedSearchStartLmaxOverLread      1
+seedPerReadNmax                   1000
+seedPerWindowNmax                 50
+seedNoneLociPerWindow             10
+seedMultimapNmax                  10000
+seedSplitMin                      12
+alignIntronMin                    21
+alignIntronMax                    0
+alignMatesGapMax                  0
+alignTranscriptsPerReadNmax       10000
+alignSJoverhangMin                5
+alignSJDBoverhangMin              3
+alignSJstitchMismatchNmax         0   -1   0   0   
+alignSplicedMateMapLmin           0
+alignSplicedMateMapLminOverLmate    0.66
+alignWindowsPerReadNmax           10000
+alignTranscriptsPerWindowNmax     100
+alignEndsType                     Local
+alignSoftClipAtReferenceEnds      Yes
+alignEndsProtrude                 0   ConcordantPair   
+chimSegmentMin                    0
+chimScoreMin                      0
+chimScoreDropMax                  20
+chimScoreSeparation               10
+chimScoreJunctionNonGTAG          -1
+chimMainSegmentMultNmax           10
+chimJunctionOverhangMin           20
+chimOutType                       SeparateSAMold   
+chimFilter                        banGenomicN   
+chimSegmentReadGapMax             0
+sjdbFileChrStartEnd               -   
+sjdbGTFfile                       -
+sjdbGTFchrPrefix                  -
+sjdbGTFfeatureExon                exon
+sjdbGTFtagExonParentTranscript    transcript_id
+sjdbGTFtagExonParentGene          gene_id
+sjdbOverhang                      100
+sjdbScore                         2
+sjdbInsertSave                    Basic
+quantMode                         -   
+quantTranscriptomeBAMcompression    1
+quantTranscriptomeBan             IndelSoftclipSingleend
+twopass1readsN                    18446744073709551615
+twopassMode                       None
+##### Command Line:
+STAR --runMode genomeGenerate --genomeDir star_rn6 --genomeFastaFiles rat/rn6.fa --runThreadN 30
+##### Initial USER parameters from Command Line:
+###### All USER parameters from Command Line:
+runMode                       genomeGenerate     ~RE-DEFINED
+genomeDir                     star_rn6     ~RE-DEFINED
+genomeFastaFiles              rat/rn6.fa        ~RE-DEFINED
+runThreadN                    30     ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runMode                           genomeGenerate
+runThreadN                        30
+genomeDir                         star_rn6
+genomeFastaFiles                  rat/rn6.fa   
+
+-------------------------------
+##### Final effective command line:
+STAR   --runMode genomeGenerate   --runThreadN 30   --genomeDir star_rn6   --genomeFastaFiles rat/rn6.fa   
+
+##### Final parameters after user input--------------------------------:
+versionSTAR                       20201
+versionGenome                     20101   20200   
+parametersFiles                   -   
+sysShell                          -
+runMode                           genomeGenerate
+runThreadN                        30
+runDirPerm                        User_RWX
+runRNGseed                        777
+genomeDir                         star_rn6
+genomeLoad                        NoSharedMemory
+genomeFastaFiles                  rat/rn6.fa   
+genomeChainFiles                  -   
+genomeSAindexNbases               14
+genomeChrBinNbits                 18
+genomeSAsparseD                   1
+genomeSuffixLengthMax             18446744073709551615
+genomeFileSizes                   0   
+genomeConsensusFile               -
+readFilesType                     Fastx   
+readFilesIn                       Read1   Read2   
+readFilesPrefix                   -
+readFilesCommand                  -   
+readMatesLengthsIn                NotEqual
+readMapNumber                     18446744073709551615
+readNameSeparator                 /   
+inputBAMfile                      -
+bamRemoveDuplicatesType           -
+bamRemoveDuplicatesMate2basesN    0
+limitGenomeGenerateRAM            31000000000
+limitIObufferSize                 150000000
+limitOutSAMoneReadBytes           100000
+limitOutSJcollapsed               1000000
+limitOutSJoneRead                 1000
+limitBAMsortRAM                   0
+limitSjdbInsertNsj                1000000
+outFileNamePrefix                 ./
+outTmpDir                         -
+outTmpKeep                        None
+outStd                            Log
+outReadsUnmapped                  None
+outQSconversionAdd                0
+outMultimapperOrder               Old_2.4
+outSAMtype                        SAM   
+outSAMmode                        Full
+outSAMstrandField                 None
+outSAMattributes                  Standard   
+outSAMunmapped                    None   
+outSAMorder                       Paired
+outSAMprimaryFlag                 OneBestScore
+outSAMreadID                      Standard
+outSAMmapqUnique                  255
+outSAMflagOR                      0
+outSAMflagAND                     65535
+outSAMattrRGline                  -   
+outSAMheaderHD                    -   
+outSAMheaderPG                    -   
+outSAMheaderCommentFile           -
+outBAMcompression                 1
+outBAMsortingThreadN              0
+outSAMfilter                      None   
+outSAMmultNmax                    18446744073709551615
+outSAMattrIHstart                 1
+outSJfilterReads                  All
+outSJfilterCountUniqueMin         3   1   1   1   
+outSJfilterCountTotalMin          3   1   1   1   
+outSJfilterOverhangMin            30   12   12   12   
+outSJfilterDistToOtherSJmin       10   0   5   10   
+outSJfilterIntronMaxVsReadN       50000   100000   200000   
+outWigType                        None   
+outWigStrand                      Stranded   
+outWigReferencesPrefix            -
+outWigNorm                        RPM   
+outFilterType                     Normal
+outFilterMultimapNmax             10
+outFilterMultimapScoreRange       1
+outFilterScoreMin                 0
+outFilterScoreMinOverLread        0.66
+outFilterMatchNmin                0
+outFilterMatchNminOverLread       0.66
+outFilterMismatchNmax             10
+outFilterMismatchNoverLmax        0.3
+outFilterMismatchNoverReadLmax    1
+outFilterIntronMotifs             None
+outFilterIntronStrands            RemoveInconsistentStrands
+clip5pNbases                      0   
+clip3pNbases                      0   
+clip3pAfterAdapterNbases          0   
+clip3pAdapterSeq                  -   
+clip3pAdapterMMp                  0.1   
+winBinNbits                       16
+winAnchorDistNbins                9
+winFlankNbins                     4
+winAnchorMultimapNmax             50
+winReadCoverageRelativeMin        0.5
+winReadCoverageBasesMin           0
+scoreGap                          0
+scoreGapNoncan                    -8
+scoreGapGCAG                      -4
+scoreGapATAC                      -8
+scoreStitchSJshift                1
+scoreGenomicLengthLog2scale       -0.25
+scoreDelBase                      -2
+scoreDelOpen                      -2
+scoreInsOpen                      -2
+scoreInsBase                      -2
+seedSearchLmax                    0
+seedSearchStartLmax               50
+seedSearchStartLmaxOverLread      1
+seedPerReadNmax                   1000
+seedPerWindowNmax                 50
+seedNoneLociPerWindow             10
+seedMultimapNmax                  10000
+seedSplitMin                      12
+alignIntronMin                    21
+alignIntronMax                    0
+alignMatesGapMax                  0
+alignTranscriptsPerReadNmax       10000
+alignSJoverhangMin                5
+alignSJDBoverhangMin              3
+alignSJstitchMismatchNmax         0   -1   0   0   
+alignSplicedMateMapLmin           0
+alignSplicedMateMapLminOverLmate    0.66
+alignWindowsPerReadNmax           10000
+alignTranscriptsPerWindowNmax     100
+alignEndsType                     Local
+alignSoftClipAtReferenceEnds      Yes
+alignEndsProtrude                 0   ConcordantPair   
+chimSegmentMin                    0
+chimScoreMin                      0
+chimScoreDropMax                  20
+chimScoreSeparation               10
+chimScoreJunctionNonGTAG          -1
+chimMainSegmentMultNmax           10
+chimJunctionOverhangMin           20
+chimOutType                       SeparateSAMold   
+chimFilter                        banGenomicN   
+chimSegmentReadGapMax             0
+sjdbFileChrStartEnd               -   
+sjdbGTFfile                       -
+sjdbGTFchrPrefix                  -
+sjdbGTFfeatureExon                exon
+sjdbGTFtagExonParentTranscript    transcript_id
+sjdbGTFtagExonParentGene          gene_id
+sjdbOverhang                      100
+sjdbScore                         2
+sjdbInsertSave                    Basic
+quantMode                         -   
+quantTranscriptomeBAMcompression    1
+quantTranscriptomeBan             IndelSoftclipSingleend
+twopass1readsN                    18446744073709551615
+twopassMode                       None
+----------------------------------------
+
+Finished loading and checking parameters
+Mar 22 10:54:23 ... starting to generate Genome files
+rat/rn6.fa : chr # 0  "chr1" chrStart: 0
+rat/rn6.fa : chr # 1  "chr2" chrStart: 282853376
+rat/rn6.fa : chr # 2  "chr3" chrStart: 549453824
+rat/rn6.fa : chr # 3  "chr4" chrStart: 727187456
+rat/rn6.fa : chr # 4  "chr5" chrStart: 911474688
+rat/rn6.fa : chr # 5  "chr6" chrStart: 1085276160
+rat/rn6.fa : chr # 6  "chr7" chrStart: 1233387520
+rat/rn6.fa : chr # 7  "chr8" chrStart: 1379139584
+rat/rn6.fa : chr # 8  "chr9" chrStart: 1512570880
+rat/rn6.fa : chr # 9  "chr10" chrStart: 1634729984
+rat/rn6.fa : chr # 10  "chr11" chrStart: 1747451904
+rat/rn6.fa : chr # 11  "chr12" chrStart: 1838153728
+rat/rn6.fa : chr # 12  "chr13" chrStart: 1891106816
+rat/rn6.fa : chr # 13  "chr14" chrStart: 2005401600
+rat/rn6.fa : chr # 14  "chr15" chrStart: 2121007104
+rat/rn6.fa : chr # 15  "chr16" chrStart: 2232418304
+rat/rn6.fa : chr # 16  "chr17" chrStart: 2323120128
+rat/rn6.fa : chr # 17  "chr18" chrStart: 2414084096
+rat/rn6.fa : chr # 18  "chr19" chrStart: 2502426624
+rat/rn6.fa : chr # 19  "chr20" chrStart: 2564816896
+rat/rn6.fa : chr # 20  "chrX" chrStart: 2621177856
+rat/rn6.fa : chr # 21  "chrY" chrStart: 2781347840
+rat/rn6.fa : chr # 22  "chrM" chrStart: 2784755712
+Number of SA indices: 5303462988
+Mar 22 10:56:27 ... starting to sort Suffix Array. This may take a long time...
+Number of chunks: 107;   chunks size limit: 508598880 bytes
+Mar 22 10:56:48 ... sorting Suffix Array chunks and saving them to disk...
+Writing 236160016 bytes into star_rn6/SA_1 ; empty space on disk = 24658948399104 bytes ... done
+Writing 197962520 bytes into star_rn6/SA_15 ; empty space on disk = 24658711277568 bytes ... done
+Writing 258945552 bytes into star_rn6/SA_10 ; empty space on disk = 24658512506880 bytes ... done
+Writing 302477120 bytes into star_rn6/SA_2 ; empty space on disk = 24658254696448 bytes ... done
+Writing 349627992 bytes into star_rn6/SA_3 ; empty space on disk = 24657952849920 bytes ... done
+Writing 332651104 bytes into star_rn6/SA_22 ; empty space on disk = 24657601802240 bytes ... done
+Writing 305793392 bytes into star_rn6/SA_24 ; empty space on disk = 24657267802112 bytes ... done
+Writing 347957952 bytes into star_rn6/SA_16 ; empty space on disk = 24656960765952 bytes ... done
+Writing 350787544 bytes into star_rn6/SA_12 ; empty space on disk = 24656611397632 bytes ... done
+Writing 350381680 bytes into star_rn6/SA_14 ; empty space on disk = 24656259186688 bytes ... done
+Writing 414908520 bytes into star_rn6/SA_13 ; empty space on disk = 24655916863488 bytes ... done
+Writing 417749216 bytes into star_rn6/SA_20 ; empty space on disk = 24655500275712 bytes ... done
+Writing 443820136 bytes into star_rn6/SA_23 ; empty space on disk = 24655080837120 bytes ... done
+Writing 362423680 bytes into star_rn6/SA_27 ; empty space on disk = 24654635225088 bytes ... done
+Writing 447278712 bytes into star_rn6/SA_4 ; empty space on disk = 24654271299584 bytes ... done
+Writing 493064904 bytes into star_rn6/SA_9 ; empty space on disk = 24653822189568 bytes ...Writing 375820456 bytes into star_rn6/SA_26 ; empty space on disk = 24653283418112 bytes ... done
+ done
+Writing 388339976 bytes into star_rn6/SA_8 ; empty space on disk = 24652949790720 bytes ... done
+Writing 384984352 bytes into star_rn6/SA_19 ; empty space on disk = 24652562075648 bytes ... done
+Writing 387570168 bytes into star_rn6/SA_29 ; empty space on disk = 24652175532032 bytes ... done
+Writing 455110968 bytes into star_rn6/SA_25 ; empty space on disk = 24651786395648 bytes ... done
+Writing 431851792 bytes into star_rn6/SA_18 ; empty space on disk = 24651329445888 bytes ... done
+Writing 487768440 bytes into star_rn6/SA_11 ; empty space on disk = 24650895847424 bytes ... done
+Writing 429742520 bytes into star_rn6/SA_28 ; empty space on disk = 24650411282432 bytes ... done
+Writing 495086032 bytes into star_rn6/SA_0 ; empty space on disk = 24649979805696 bytes ... done
+Writing 474897872 bytes into star_rn6/SA_17 ; empty space on disk = 24649499738112 bytes ...Writing 503679488 bytes into star_rn6/SA_5 ; empty space on disk = 24648960966656 bytes ... done
+ done
+Writing 389403880 bytes into star_rn6/SA_6 ; empty space on disk = 24648517218304 bytes ... done
+Writing 462086552 bytes into star_rn6/SA_7 ; empty space on disk = 24648124088320 bytes ... done
+Writing 503738248 bytes into star_rn6/SA_21 ; empty space on disk = 24647660134400 bytes ... done
+Writing 169463208 bytes into star_rn6/SA_30 ; empty space on disk = 24647160442880 bytes ... done
+Writing 232446400 bytes into star_rn6/SA_48 ; empty space on disk = 24646990979072 bytes ... done
+Writing 361502080 bytes into star_rn6/SA_33 ; empty space on disk = 24646757584896 bytes ... done
+Writing 350308440 bytes into star_rn6/SA_31 ; empty space on disk = 24646395564032 bytes ... done
+Writing 297365656 bytes into star_rn6/SA_49 ; empty space on disk = 24646043836416 bytes ... done
+Writing 423537224 bytes into star_rn6/SA_32 ; empty space on disk = 24645745258496 bytes ... done
+Writing 330659056 bytes into star_rn6/SA_43 ; empty space on disk = 24645320011776 bytes ... done
+Writing 373050984 bytes into star_rn6/SA_45 ; empty space on disk = 24644988010496 bytes ... done
+Writing 403637848 bytes into star_rn6/SA_41 ; empty space on disk = 24644613451776 bytes ... done
+Writing 390659272 bytes into star_rn6/SA_40 ; empty space on disk = 24644208181248 bytes ... done
+Writing 422928680 bytes into star_rn6/SA_39 ; empty space on disk = 24643815944192 bytes ... done
+Writing 408063344 bytes into star_rn6/SA_50 ; empty space on disk = 24643401576448 bytes ... done
+Writing 397819928 bytes into star_rn6/SA_52 ; empty space on disk = 24642991865856 bytes ... done
+Writing 404221760 bytes into star_rn6/SA_46 ; empty space on disk = 24642592436224 bytes ...Writing 480319912 bytes into star_rn6/SA_42 ; empty space on disk = 24642053664768 bytes ... done
+Writing 402411264 bytes into star_rn6/SA_57 ; empty space on disk = 24641647808512 bytes ... done
+ done
+Writing 420711000 bytes into star_rn6/SA_55 ; empty space on disk = 24641300283392 bytes ... done
+Writing 372805704 bytes into star_rn6/SA_38 ; empty space on disk = 24640877871104 bytes ... done
+Writing 476136560 bytes into star_rn6/SA_34 ; empty space on disk = 24640503554048 bytes ... done
+Writing 449675240 bytes into star_rn6/SA_54 ; empty space on disk = 24640025493504 bytes ... done
+Writing 507584752 bytes into star_rn6/SA_35 ; empty space on disk = 24639574003712 bytes ...Writing 459352272 bytes into star_rn6/SA_56 ; empty space on disk = 24639035232256 bytes ... done
+ done
+Writing 383382440 bytes into star_rn6/SA_47 ; empty space on disk = 24638603165696 bytes ... done
+Writing 486009248 bytes into star_rn6/SA_44 ; empty space on disk = 24638218231808 bytes ... done
+Writing 422993640 bytes into star_rn6/SA_59 ; empty space on disk = 24637735194624 bytes ... done
+Writing 474613496 bytes into star_rn6/SA_51 ; empty space on disk = 24637310492672 bytes ... done
+Writing 405845408 bytes into star_rn6/SA_36 ; empty space on disk = 24636835569664 bytes ... done
+Writing 495174656 bytes into star_rn6/SA_53 ; empty space on disk = 24636428058624 bytes ... done
+Writing 384245112 bytes into star_rn6/SA_37 ; empty space on disk = 24635936083968 bytes ... done
+Writing 489640016 bytes into star_rn6/SA_58 ; empty space on disk = 24635553492992 bytes ... done
+Writing 356233960 bytes into star_rn6/SA_63 ; empty space on disk = 24635086106624 bytes ... done
+Writing 432514640 bytes into star_rn6/SA_61 ; empty space on disk = 24634729869312 bytes ... done
+Writing 444388312 bytes into star_rn6/SA_60 ; empty space on disk = 24634293432320 bytes ... done
+Writing 236841368 bytes into star_rn6/SA_74 ; empty space on disk = 24633847214080 bytes ... done
+Writing 278109704 bytes into star_rn6/SA_86 ; empty space on disk = 24633609408512 bytes ... done
+Writing 500419232 bytes into star_rn6/SA_62 ; empty space on disk = 24633335848960 bytes ... done
+Writing 351752968 bytes into star_rn6/SA_64 ; empty space on disk = 24632833413120 bytes ... done
+Writing 305255624 bytes into star_rn6/SA_87 ; empty space on disk = 24632480231424 bytes ... done
+Writing 285420080 bytes into star_rn6/SA_73 ; empty space on disk = 24632173735936 bytes ... done
+Writing 362248216 bytes into star_rn6/SA_84 ; empty space on disk = 24631882739712 bytes ... done
+Writing 383262800 bytes into star_rn6/SA_72 ; empty space on disk = 24631519023104 bytes ... done
+Writing 405684752 bytes into star_rn6/SA_88 ; empty space on disk = 24631134208000 bytes ... done
+Writing 447932432 bytes into star_rn6/SA_85 ; empty space on disk = 24630728896512 bytes ... done
+Writing 429496648 bytes into star_rn6/SA_78 ; empty space on disk = 24630279155712 bytes ... done
+Writing 436229720 bytes into star_rn6/SA_83 ; empty space on disk = 24629847175168 bytes ...Writing 444194208 bytes into star_rn6/SA_82 ; empty space on disk = 24629308403712 bytes ... done
+ done
+Writing 424691816 bytes into star_rn6/SA_75 ; empty space on disk = 24628963192832 bytes ... done
+Writing 449896848 bytes into star_rn6/SA_80 ; empty space on disk = 24628539179008 bytes ... done
+Writing 370813528 bytes into star_rn6/SA_81 ; empty space on disk = 24628087431168 bytes ... done
+Writing 364744072 bytes into star_rn6/SA_76 ; empty space on disk = 24627715117056 bytes ... done
+Writing 409322984 bytes into star_rn6/SA_89 ; empty space on disk = 24627348996096 bytes ...Writing 446628072 bytes into star_rn6/SA_71 ; empty space on disk = 24626810224640 bytes ... done
+ done
+Writing 459352272 bytes into star_rn6/SA_70 ; empty space on disk = 24626491047936 bytes ... done
+Writing 498955984 bytes into star_rn6/SA_65 ; empty space on disk = 24626031390720 bytes ... done
+Writing 403967464 bytes into star_rn6/SA_68 ; empty space on disk = 24625530421248 bytes ... done
+Writing 488633040 bytes into star_rn6/SA_77 ; empty space on disk = 24625124823040 bytes ... done
+Writing 488633040 bytes into star_rn6/SA_69 ; empty space on disk = 24624634216448 bytes ... done
+Writing 505024648 bytes into star_rn6/SA_79 ; empty space on disk = 24624152371200 bytes ... done
+Writing 184175328 bytes into star_rn6/SA_94 ; empty space on disk = 24623651811328 bytes ... done
+Writing 477400512 bytes into star_rn6/SA_66 ; empty space on disk = 24623466881024 bytes ... done
+Writing 501455384 bytes into star_rn6/SA_67 ; empty space on disk = 24622992863232 bytes ... done
+Writing 362788592 bytes into star_rn6/SA_92 ; empty space on disk = 24622501683200 bytes ... done
+Writing 397532312 bytes into star_rn6/SA_93 ; empty space on disk = 24622137425920 bytes ... done
+Writing 368888064 bytes into star_rn6/SA_90 ; empty space on disk = 24621738287104 bytes ...Writing 441389904 bytes into star_rn6/SA_91 ; empty space on disk = 24621603778560 bytes ... done
+ done
+Writing 328926608 bytes into star_rn6/SA_95 ; empty space on disk = 24620933095424 bytes ... done
+Writing 266924648 bytes into star_rn6/SA_96 ; empty space on disk = 24620602834944 bytes ... done
+Writing 283092984 bytes into star_rn6/SA_105 ; empty space on disk = 24620334821376 bytes ... done
+Writing 304699400 bytes into star_rn6/SA_104 ; empty space on disk = 24620052992000 bytes ... done
+Writing 300412552 bytes into star_rn6/SA_103 ; empty space on disk = 24619747028992 bytes ... done
+Writing 377074168 bytes into star_rn6/SA_100 ; empty space on disk = 24619445383168 bytes ... done
+Writing 386203824 bytes into star_rn6/SA_97 ; empty space on disk = 24619066781696 bytes ... done
+Writing 357210696 bytes into star_rn6/SA_101 ; empty space on disk = 24618679013376 bytes ... done
+Writing 403232064 bytes into star_rn6/SA_98 ; empty space on disk = 24618320355328 bytes ... done
+Writing 495872368 bytes into star_rn6/SA_106 ; empty space on disk = 24617915490304 bytes ... done
+Writing 427828608 bytes into star_rn6/SA_102 ; empty space on disk = 24617427382272 bytes ... done
+Writing 493312072 bytes into star_rn6/SA_99 ; empty space on disk = 24616999661568 bytes ... done
+Mar 22 11:09:17 ... loading chunks from disk, packing SA...
+Mar 22 11:11:08 ... finished generating suffix array
+Mar 22 11:11:08 ... generating Suffix Array index
+Mar 22 11:16:58 ... completed Suffix Array index
+Mar 22 11:16:58 ... writing Genome to disk ...
+Writing 2785017856 bytes into star_rn6/Genome ; empty space on disk = 24658724679680 bytes ... done
+SA size in bytes: 21876784829
+Mar 22 11:17:00 ... writing Suffix Array to disk ...
+Writing 21876784829 bytes into star_rn6/SA ; empty space on disk = 24655928508416 bytes ... done
+Mar 22 11:17:33 ... writing SAindex to disk
+Writing 8 bytes into star_rn6/SAindex ; empty space on disk = 24634061271040 bytes ... done
+Writing 120 bytes into star_rn6/SAindex ; empty space on disk = 24634061271040 bytes ... done
+Writing 1565873491 bytes into star_rn6/SAindex ; empty space on disk = 24634061271040 bytes ... done
+Mar 22 11:17:37 ..... finished successfully
+DONE: Genome generation, EXITING

@@ -17,3 +17,7 @@ bash 00_bin/01.5_fastqc_clean.sh
 # Gather and rename FASTQs
 perl 00_bin/02_ln_reads.pl
 
+# Assembly: guided
+nohup bash 00_bin/03.1_guided_assembly.sh > assembly_guided.log 2>&1 &
+# Assembly: de novo
+nohup bash 00_bin/03.2_denovo_assembly.sh > assembly_denovo.log 2>&1 &

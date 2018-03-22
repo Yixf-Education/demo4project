@@ -17,13 +17,17 @@ conda install samtools hisat2 stringtie salmon oases velvet subread lordec star 
 
 # Packages
 conda install bioconductor-deseq2 bioconductor-tximport
+
 # Use R to install readr
+
+# FusionCatcher: RNA Fusion detection
+wget http://sf.net/projects/fusioncatcher/files/bootstrap.py -O bootstrap.py && python bootstrap.py -t --download
+# "Y" for every question except the installing path: $HOME/opt/fusioncatcher
 
 # Tools are not installed!
 # IDP: Long-read transcriptome reconstruction
 # IDP-fusion: Long-read fusion detection
 # GIREMI: RNA editing detection
-# FusionCatcher: RNA Fusion detection
 # gatb-core
 
 # RNACocktail

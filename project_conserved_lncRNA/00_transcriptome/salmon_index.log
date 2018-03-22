@@ -1,0 +1,45 @@
+Version Info: Could not resolve upgrade information in the alotted time.
+Check for upgrades manually at https://combine-lab.github.io/salmon
+index ["salmon_hg38/hg38"] did not previously exist  . . . creating it
+outputPrefix = "salmon_hg38/hg38/bwaidx"
+[2018-03-22 08:49:10.802] [jLog] [info] building index
+[bwa_index] Pack FASTA... 7.44 sec
+[bwa_index] Construct BWT for the packed sequence...
+[BWTIncCreate] textLength=588612280, availableWord=53416504
+[BWTIncConstructFromPacked] 10 iterations done. 85461672 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 160429448 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 227057000 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 286271720 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 338897880 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 385668104 characters processed.
+[BWTIncConstructFromPacked] 70 iterations done. 427233576 characters processed.
+[BWTIncConstructFromPacked] 80 iterations done. 464173064 characters processed.
+[BWTIncConstructFromPacked] 90 iterations done. 497000936 characters processed.
+[BWTIncConstructFromPacked] 100 iterations done. 526174424 characters processed.
+[BWTIncConstructFromPacked] 110 iterations done. 552099880 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 575138424 characters processed.
+[bwa_index] 386.45 seconds elapse.
+[bwa_index] Update BWT... 2.61 sec
+[bwa_index] Pack forward-only FASTA... 5.25 sec
+[bwa_index] Construct SA from BWT and Occ... 126.46 sec
+[2018-03-22 08:58:03.107] [jLog] [info] done building index
+[bwt_gen] Finished constructing BWT in 127 iterations.
+Version Info: Could not resolve upgrade information in the alotted time.
+Check for upgrades manually at https://combine-lab.github.io/salmon
+index ["salmon_rn6/rn6"] did not previously exist  . . . creating it
+outputPrefix = "salmon_rn6/rn6/bwaidx"
+[2018-03-22 08:58:03.950] [jLog] [info] building index
+[bwa_index] Pack FASTA... 1.75 sec
+[bwa_index] Construct BWT for the packed sequence...
+[BWTIncCreate] textLength=136111296, availableWord=21576988
+[BWTIncConstructFromPacked] 10 iterations done. 35591792 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 65751776 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 92554032 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 116371904 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 136111296 characters processed.
+[bwa_index] 59.50 seconds elapse.
+[bwa_index] Update BWT... 0.60 sec
+[bwa_index] Pack forward-only FASTA... 1.19 sec
+[bwa_index] Construct SA from BWT and Occ... 31.01 sec
+[2018-03-22 08:59:39.068] [jLog] [info] done building index
+[bwt_gen] Finished constructing BWT in 50 iterations.

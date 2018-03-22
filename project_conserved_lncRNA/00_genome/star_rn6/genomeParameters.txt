@@ -1,0 +1,15 @@
+### STAR   --runMode genomeGenerate   --runThreadN 30   --genomeDir star_rn6   --genomeFastaFiles rat/rn6.fa   
+versionGenome	20201
+genomeFastaFiles	rat/rn6.fa 
+genomeSAindexNbases	14
+genomeChrBinNbits	18
+genomeSAsparseD	1
+sjdbOverhang	0
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	-
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	2785017856 21876784829

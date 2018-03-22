@@ -1,0 +1,15 @@
+### STAR   --runMode genomeGenerate   --runThreadN 30   --genomeDir star_hg38   --genomeFastaFiles human/hg38.fa   
+versionGenome	20201
+genomeFastaFiles	human/hg38.fa 
+genomeSAindexNbases	14
+genomeChrBinNbits	18
+genomeSAsparseD	1
+sjdbOverhang	0
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	-
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	3091464192 24235659372
