@@ -21,3 +21,6 @@ perl 00_bin/02_ln_reads.pl
 nohup bash 00_bin/03.1_guided_assembly.sh > assembly_guided.log 2>&1 &
 # Assembly: de novo
 nohup bash 00_bin/03.2_denovo_assembly.sh > assembly_denovo.log 2>&1 &
+
+# Merge assembly transcripts
+nohup bash 00_bin/04_merge_gtf.sh &
