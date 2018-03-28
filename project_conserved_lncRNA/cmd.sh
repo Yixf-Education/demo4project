@@ -49,3 +49,9 @@ perl 00_bin/06.2_vs_stats.pl
 
 # Combine lncRNAs from known and assembly lncRNA
 bash 00_bin/07.1_combine_lncRNA_known_assembly.sh
+
+# Analyze orthologs
+bash 00_bin/08.1_get_ortholog.sh
+perl 00_bin/08.2_ortholog_stats.pl
+
+
