@@ -23,4 +23,16 @@ nohup bash 00_bin/03.1_guided_assembly.sh > assembly_guided.log 2>&1 &
 nohup bash 00_bin/03.2_denovo_assembly.sh > assembly_denovo.log 2>&1 &
 
 # Merge assembly transcripts
-nohup bash 00_bin/04_merge_gtf.sh &
+nohup bash 00_bin/04.1_merge_gtf.sh &
+
+# Convert transcripts in GTF to BED
+bash 00_bin/04.2_gtf2bed.sh
+
+# Extract transcripts sequences from BED and genome
+bash 00_bin/04.3_bed2fa.sh
+bash 00_bin/04.4_simple_fa.sh
+
+# Run lncScore
+#bash 00_bin/05.1_run_lncScore.sh
+bash 00_bin/05.1_run_CPAT.sh
+

@@ -22,6 +22,7 @@ SAindex
 *.sa
 *.bam
 *.sam
+00_tools/
 03_denovo_out/
 03_denovo_work/
 03_guided_out/

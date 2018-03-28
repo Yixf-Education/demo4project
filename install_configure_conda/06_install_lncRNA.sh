@@ -7,6 +7,7 @@ source activate lncRNA
 # For lncScore
 conda install perl python=2.7 scikit-learn
 
-conda install ngsutils genometools-genometools gffutils
+conda install bedtools ea-utils cpat
+# genometools-genometools gffutils ngsutils
 
 source deactivate lncRNA
