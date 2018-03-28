@@ -73,7 +73,8 @@ foreach my $gb (@gbs) {
         my $g = $t[1];
 
         # Not overlap with protein-coding genes
-        if ( $f[3] eq "u" ) {
+        # if ( $f[3] eq "u" ) {
+        if ( $f[3] =~ /[iypru]/ ) {
             $lncRNA{$g} .= "C";
         }
         else {

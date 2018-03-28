@@ -47,4 +47,5 @@ perl 00_bin/05.3.2_get_lncRNA_gtf_bed.pl
 bash 00_bin/06.1_vs_database.sh
 perl 00_bin/06.2_vs_stats.pl
 
-
+# Combine lncRNAs from known and assembly lncRNA
+bash 00_bin/07.1_combine_lncRNA_known_assembly.sh

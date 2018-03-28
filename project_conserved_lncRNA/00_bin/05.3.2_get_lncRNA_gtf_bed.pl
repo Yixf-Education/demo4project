@@ -21,7 +21,7 @@ foreach my $gb (@gbs) {
     }
     close $I or warn "$0 : failed to close input file '$fi' : $!\n";
 
-    my $fog = "$dio/$gb" . "lncRNA.gtf";
+    my $fog = "$dio/$gb" . "_lncRNA.gtf";
     open my $OG, '>', $fog
       or die "$0 : failed to open output file '$fog' : $!\n";
     select $OG;

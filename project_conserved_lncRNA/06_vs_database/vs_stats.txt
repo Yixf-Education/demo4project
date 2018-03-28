@@ -1,9 +1,9 @@
 sample	database	strand	overlap	number	total	percent
-HB	GENCODE	noStrand	0.5	1611	2970	54.2424
-HB	GENCODE	noStrand	1bp	1835	2970	61.7845
-HB	GENCODE	Strand	0.5	1530	2970	51.5152
-HB	GENCODE	Strand	1bp	1713	2970	57.6768
-HB	MiTranscriptome	noStrand	0.5	2353	2970	79.2256
-HB	MiTranscriptome	noStrand	1bp	2640	2970	88.8889
-HB	MiTranscriptome	Strand	0.5	1634	2970	55.0168
-HB	MiTranscriptome	Strand	1bp	2036	2970	68.5522
+HB	GENCODE	noStrand	0.5	1821	3362	54.1642
+HB	GENCODE	noStrand	1bp	2059	3362	61.2433
+HB	GENCODE	Strand	0.5	1728	3362	51.3980
+HB	GENCODE	Strand	1bp	1919	3362	57.0791
+HB	MiTranscriptome	noStrand	0.5	2695	3362	80.1606
+HB	MiTranscriptome	noStrand	1bp	3006	3362	89.4111
+HB	MiTranscriptome	Strand	0.5	1864	3362	55.4432
+HB	MiTranscriptome	Strand	1bp	2300	3362	68.4117
