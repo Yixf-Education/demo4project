@@ -42,3 +42,9 @@ bash 00_bin/05.2_compare_gtf.sh
 # Get final lncRNA
 perl 00_bin/05.3.1_get_lncRNA_IDs.pl
 perl 00_bin/05.3.2_get_lncRNA_gtf_bed.pl
+
+# Compare with databases: GENCODE & MiTranscriptome
+bash 00_bin/06.1_vs_database.sh
+perl 00_bin/06.2_vs_stats.pl
+
+
