@@ -3,9 +3,9 @@
 dit="00_tools/lncScore-1.0.2"
 # dit="00_tools/lncScore"
 di="04_merged"
-do="05_lncScore"
+do="05_identification"
 mkdir $do
-doo="$do/01_output"
+doo="$do/01_lncScore"
 mkdir $doo
 
 source activate lncRNA

@@ -1,0 +1,30 @@
+# gffcompare v0.10.1 | Command line was:
+#gffcompare -R -r 00_genes/hg38_PCG.gtf -o 05_identification/02_compare/HB 04_merged/HB_merged.gtf
+#
+
+#= Summary for dataset: 04_merged/HB_merged.gtf 
+#     Query mRNAs :   79792 in   33890 loci  (63827 multi-exon transcripts)
+#            (11243 multi-transcript loci, ~2.4 transcripts per locus)
+# Reference mRNAs :  132537 in   14727 loci  (131173 multi-exon)
+# Super-loci w/ reference transcripts:    13901
+#-----------------| Sensitivity | Precision  |
+        Base level:    67.0     |    69.2    |
+        Exon level:    49.7     |    69.4    |
+      Intron level:    64.8     |    86.1    |
+Intron chain level:    17.8     |    36.6    |
+  Transcript level:    17.7     |    29.4    |
+       Locus level:    78.3     |    34.3    |
+
+     Matching intron chains:   23330
+       Matching transcripts:   23485
+              Matching loci:   11529
+
+          Missed exons:   64151/419640	( 15.3%)
+           Novel exons:   38421/283097	( 13.6%)
+        Missed introns:   30674/264156	( 11.6%)
+         Novel introns:   12370/198790	(  6.2%)
+           Missed loci:       0/14727	(  0.0%)
+            Novel loci:   15652/33890	( 46.2%)
+
+ Total union super-loci across all input datasets: 29928 
+79792 out of 79792 consensus transcripts written in 05_identification/02_compare/HB.annotated.gtf (0 discarded as redundant)

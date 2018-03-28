@@ -2,9 +2,9 @@
 
 dit="00_tools/CPAT-1.2.4"
 di="04_merged"
-do="05_CPAT"
+do="05_identification"
 mkdir $do
-doo="$do/01_output"
+doo="$do/01_CPAT"
 mkdir $doo
 
 source activate lncRNA

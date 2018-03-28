@@ -32,7 +32,13 @@ bash 00_bin/04.2_gtf2bed.sh
 bash 00_bin/04.3_bed2fa.sh
 bash 00_bin/04.4_simple_fa.sh
 
-# Run lncScore
+# Calculate coding pontential
 #bash 00_bin/05.1_run_lncScore.sh
 bash 00_bin/05.1_run_CPAT.sh
 
+# Compare with protein-coding genes in GTF format
+bash 00_bin/05.2_compare_gtf.sh
+
+# Get final lncRNA
+perl 00_bin/05.3.1_get_lncRNA_IDs.pl
+perl 00_bin/05.3.2_get_lncRNA_gtf_bed.pl
